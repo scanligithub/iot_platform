@@ -129,14 +129,13 @@ services:
             PGADMIN_DEFAULT_PASSWORD: 222222
         #/var/lib/docker/volumes/map_pgadmin_vol/_data/storage/admin_126.com/        
         volumes:
-            - pgadmin_vol:/var/lib/pgadmin 
+            - ./pgadmin_vol:/var/lib/pgadmin 
   
   #      links:
   #          - postgis
 
 volumes:
     pgdata:
-    pgadmin_vol:
     redisdata:
 #
 #

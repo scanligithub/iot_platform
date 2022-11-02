@@ -1,0 +1,105 @@
+version: "2"
+
+services:
+  chirpstack-network-server:
+    image: scanlidocker/chirpstack-network-server:v0.21
+#    restart: always
+    volumes:
+      - ./configuration/chirpstack-network-server:/etc/chirpstack-network-server
+    depends_on:
+      - postgresql
+      - mosquitto
+
+  chirpstack-application-server:
+    image: scanlidocker/chirpstack-application-server:v0.21
+ #   restart: always
+    ports:
+      - 8080:8080
+    volumes:
+      - ./configuration/chirpstack-application-server:/etc/chirpstack-application-server
+    depends_on:
+      - chirpstack-network-server
+
+  chirpstack-gateway-bridge:
+    image: scanlidocker/chirpstack-gateway-bridge:v0.21
+#    restart: always
+    ports:
+      - 1700:1700/udp
+    volumes:
+      - ./configuration/chirpstack-gateway-bridge:/etc/chirpstack-gateway-bridge
+    depends_on: 
+      - mosquitto
+
+  LoraWeb:
+    image: nginx:stable-alpine
+#    restart: always
+    ports:
+      - 8088:80
+      - 8089:81
+      - 8090:82
+      - 8091:83 
+         
+    volumes:
+      - ./nginx/nginxconfig:/etc/nginx/conf.d
+      - ./nginx/dist:/etc/nginx/usr/share/nginx/html
+      - ./nginx/font/Microsoft_YaHei:/etc/nginx/usr/share/nginx/font/Microsoft_YaHei
+      - ./nginx/sprite:/etc/nginx/usr/share/nginx/sprite
+      - ./nginx/style:/etc/nginx/usr/share/nginx/style
+      - ./nginx/log:/var/log/nginx
+    depends_on: 
+      - chirpstack-application-server
+
+  node-red:
+    image:  nodered/node-red:latest-minimal
+#    restart: always
+    ports:
+      - 1880:1880
+    volumes:
+      - ./node_red_data:/data   
+    depends_on: 
+      - LoraWeb
+
+  portainer:
+    image: portainer/portainer:latest
+#    restart: always
+    ports:
+      - 9000:9000
+    volumes:
+      - /var/run/docker.sock:/var/run/docker.sock   
+    depends_on: 
+      - node-red
+
+      
+  postgresql:
+#    image: arm32v7/postgres:9-alpine3.14
+    image: postgres:14-alpine
+#    restart: always
+    security_opt:
+      - seccomp:unconfined
+    environment:
+      - POSTGRES_PASSWORD=root
+    volumes:
+      - ./configuration/postgresql/initdb:/docker-entrypoint-initdb.d
+      - postgresqldata:/var/lib/postgresql/data
+      
+           
+
+  redis:
+    image: redis:5-alpine
+#    restart: always
+    security_opt:
+      - seccomp:unconfined   
+    volumes:
+      - redisdata:/data
+
+  mosquitto:
+    image: eclipse-mosquitto:2
+#    restart: always
+    ports:
+      - 1883:1883
+    volumes: 
+      - ./configuration/eclipse-mosquitto/mosquitto.conf:/mosquitto/config/mosquitto.conf
+
+volumes:
+  postgresqldata:
+  redisdata:

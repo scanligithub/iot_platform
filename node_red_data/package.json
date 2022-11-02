@@ -1,0 +1,12 @@
+{
+    "name": "node-red-project",
+    "description": "A Node-RED Project",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "node-red-contrib-web-worldmap": "~2.28.3",
+        "node-red-dashboard": "~3.1.7",
+        "node-red-node-base64": "~0.3.0",
+        "node-red-node-ui-table": "~0.3.12"
+    }
+}

@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 166 78">
+  <g filter="url(#zoxif6b8dda)">
+    <path fill-rule="evenodd" clip-rule="evenodd" d="M74.001 73h18l5 5h-18l-5-5z" fill="#FFAC20"/>
+  </g>
+  <path opacity=".6" fill-rule="evenodd" clip-rule="evenodd" d="M105.002 73h18l5 5h-18l-5-5z" fill="#FFE5BA"/>
+  <path opacity=".4" fill-rule="evenodd" clip-rule="evenodd" d="M136.002 73h18.001l5 5h-18.001l-5-5z" fill="#FFE5BA"/>
+  <path d="M162.503 69H73.001L3 1h88.002l71.501 68z" fill="url(#zoxif6b8ddb)" stroke="url(#zoxif6b8ddc)" stroke-width="2" stroke-linecap="round"/>
+  <defs>
+    <linearGradient id="zoxif6b8ddb" x1="2.209" y1="23.427" x2="11.094" y2="83.774" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#09162B"/>
+      <stop offset="1" stop-color="#255192"/>
+    </linearGradient>
+    <linearGradient id="zoxif6b8ddc" x1="272.667" y1="46.207" x2="249.64" y2="-65.084" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#fff"/>
+      <stop offset="1" stop-color="#2955FF" stop-opacity=".01"/>
+    </linearGradient>
+    <filter id="zoxif6b8dda" x="74.001" y="73" width="23" height="6" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feFlood flood-opacity="0" result="BackgroundImageFix"/>
+      <feBlend in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+      <feColorMatrix in="SourceAlpha" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+      <feOffset dy="1"/>
+      <feGaussianBlur stdDeviation="1.5"/>
+      <feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+      <feColorMatrix values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.5 0"/>
+      <feBlend in2="shape" result="effect1_innerShadow_109_230"/>
+    </filter>
+  </defs>
+</svg>

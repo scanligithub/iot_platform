@@ -1,0 +1,162 @@
+version: '3.0'
+services:
+    postgresql:
+       # image: nickblah/postgis:10.22-bullseye-postgis-3.2
+        image: postgis/postgis:13-3.2-alpine
+        container_name: postgresql
+        ports:
+            - '5432:5432'
+        security_opt:
+            - seccomp:unconfined
+        environment:
+           POSTGRES_USER: mapgis
+           POSTGRES_PASSWORD: mapgis
+           POSTGRES_DB: db-mapgis
+        volumes:
+            - ./pgdata:/var/lib/postgresql/data
+            - ./configuration/postgresql/initdb:/docker-entrypoint-initdb.d
+            
+       # env_file:
+       #     - pg.env           
+
+
+
+    chirpstack-network-server:
+        image: scanlidocker/chirpstack-network-server:v0.21
+#    restart: always
+        volumes:
+            - ./configuration/chirpstack-network-server:/etc/chirpstack-network-server
+        depends_on:
+            - postgresql
+            - mosquitto
+
+    chirpstack-application-server:
+        image: scanlidocker/chirpstack-application-server:v0.21
+ #   restart: always
+        ports:
+            - 8080:8080
+        volumes:
+            - ./configuration/chirpstack-application-server:/etc/chirpstack-application-server
+        depends_on:
+            - chirpstack-network-server
+
+    chirpstack-gateway-bridge:
+        image: scanlidocker/chirpstack-gateway-bridge:v0.21
+#    restart: always
+        ports:
+            - 1700:1700/udp
+        volumes:
+            - ./configuration/chirpstack-gateway-bridge:/etc/chirpstack-gateway-bridge
+        depends_on: 
+            - mosquitto
+
+    LoraWeb:
+        image: nginx:stable-alpine
+#    restart: always
+        ports:
+            - 8088:80
+            - 8089:81
+            - 8090:82
+            - 8091:83 
+         
+        volumes:
+            - ./nginx/config:/etc/nginx/conf.d
+            - ./nginx/dist:/etc/nginx/usr/share/nginx/html
+            - ./nginx/font/Microsoft_YaHei:/etc/nginx/usr/share/nginx/font/Microsoft_YaHei
+            - ./nginx/sprite:/etc/nginx/usr/share/nginx/sprite
+            - ./nginx/style:/etc/nginx/usr/share/nginx/style
+            - ./nginx/log:/var/log/nginx
+        depends_on: 
+            - chirpstack-application-server
+
+    node-red:
+        image:  nodered/node-red:latest-minimal
+#    restart: always
+        ports:
+            - 1880:1880
+        volumes:
+            - ./node_red_data:/data   
+        depends_on: 
+            - LoraWeb
+
+    portainer:
+        image: portainer/portainer:latest
+#    restart: always
+        ports: 
+            - 9000:9000
+        volumes: 
+            - /var/run/docker.sock:/var/run/docker.sock   
+        depends_on: 
+            - node-red          
+
+    redis:
+        image: redis:5-alpine
+#    restart: always
+        security_opt:
+            - seccomp:unconfined   
+        volumes:
+            - redisdata:/data
+
+    mosquitto:
+        image: eclipse-mosquitto:2
+#    restart: always
+        ports:
+            - 1883:1883
+        volumes: 
+            - ./configuration/eclipse-mosquitto/mosquitto.conf:/mosquitto/config/mosquitto.conf
+            
+    pg_tileserv:
+  
+        image: scanlidocker/pg_tileserv_alpine3.12:v1
+        container_name: pg_tileserv
+        #env_file:
+        #    - pg_tileserv.env
+        environment:        
+            DATABASE_URL: postgres://mapgis:mapgis@postgresql/db-mapgis
+            #DATABASE_URL=postgres://{USER}:{password}@{hostname}:{port}/{database-name}
+        depends_on:
+            - postgresql
+        ports:
+            - 7800:7800
+            
+    pgadmin4:
+        image: dpage/pgadmin4:latest
+        container_name: pgadmin4
+        ports:
+            - '5050:80'
+        environment:
+            PGADMIN_DEFAULT_EMAIL: admin@126.com
+            PGADMIN_DEFAULT_PASSWORD: 222222
+        #/var/lib/docker/volumes/map_pgadmin_vol/_data/storage/admin_126.com/        
+        volumes:
+            - pgadmin_vol:/var/lib/pgadmin 
+  
+  #      links:
+  #          - postgis
+
+volumes:
+    pgdata:
+    pgadmin_vol:
+    redisdata:
+#
+#
+#         pg-tileserv 启动过程
+# 1、docker-compose down    重建数据库，无表
+# 2、docker-compose up
+# 3、在数据库database-name中添加表（可采用备份恢复模式）
+# 4、ctrl-C
+# 5、docker-compose up
+# 
+#      QGIS添加表流程
+#  1、docker-compose up 启动数据库后，在QGID>浏览器>postgreSQL>新建连接
+# （主机：192.168.12.197； 数据库：database-name；配置>基本>用户名：postgres，
+#  密码：postgres）
+#  2、导入表  QGIS>数据库>数据库管理器>数据源>postGIS>database-name>public   
+#      从数据库管理器上面的工具栏里点击“导入层或文件 ”   选择需要导入的shp文件
+#
+#      QGIS需要安装的插件  DB Manager,QuickOSM,QuickMapServers,
+# 
+# # 
+# 
+# 
+# 

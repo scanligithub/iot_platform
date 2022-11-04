@@ -2,7 +2,7 @@ version: '3.0'
 services:
     postgresql:
        # image: nickblah/postgis:10.22-bullseye-postgis-3.2
-        image: postgis/postgis:13-3.2-alpine
+        image: scanlidocker/postgis_14_33_alpine3.16:v1
         container_name: postgresql
         ports:
             - '5432:5432'

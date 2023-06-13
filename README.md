@@ -1,5 +1,5 @@
 nanopi core  install docker and docker-compose
-1、修改成国内  源
+1、修改成国内  --源
     文件   /etc/apt/sources.list.d/nodesource.list 内容：
 
 deb http://mirrors.ustc.edu.cn/ubuntu-ports/ xenial main multiverse restricted universe

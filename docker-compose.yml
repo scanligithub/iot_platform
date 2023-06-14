@@ -92,7 +92,7 @@ services:
     node-red:
         image:  nodered/node-red:latest-minimal
         container_name: node-red
-        # user: root
+        user: root
         restart: always
         ports:
             - 1880:1880
@@ -178,7 +178,7 @@ services:
     pgadmin4:
         image: dpage/pgadmin4:latest
         container_name: pgadmin4
-        # user: root
+        user: root
         restart: always
         ports:
             - '5050:80'

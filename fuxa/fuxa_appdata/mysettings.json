@@ -1,0 +1,17 @@
+{
+    "language": "zh-cn",
+    "uiPort": 1881,
+    "secureEnabled": false,
+    "tokenExpiresIn": "",
+    "smtp": {
+        "host": "",
+        "port": "587",
+        "mailsender": "",
+        "username": ""
+    },
+    "daqstore": {
+        "type": "SQlite",
+        "retention": "year1",
+        "credentials": {}
+    }
+}

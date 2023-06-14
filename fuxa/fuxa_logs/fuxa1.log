@@ -1,0 +1,1909 @@
+2022-12-29T08:01:19.955Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:01:24.958Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:01:29.960Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:01:34.963Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:01:39.969Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:01:44.062Z [info] socket.io client connected
+2022-12-29T08:01:44.971Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:01:49.975Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:01:54.979Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:01:59.985Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:02:04.987Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:02:09.990Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:02:14.995Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:02:19.999Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:02:25.002Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:02:30.004Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:02:35.009Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:02:40.012Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:02:45.014Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:02:50.024Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:02:55.027Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:03:00.031Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:03:05.034Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:03:10.039Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:03:15.041Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:03:20.043Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:03:25.047Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:03:30.050Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:03:35.055Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:03:40.058Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:03:45.061Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:03:50.064Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:03:55.067Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:04:00.071Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:04:05.074Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:04:10.077Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:04:15.082Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:04:20.086Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:04:25.088Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:04:30.095Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:04:35.098Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:04:40.102Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:04:45.103Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:04:50.107Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:04:55.111Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:05:00.117Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:05:05.118Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:05:10.122Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:05:15.124Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:05:20.127Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:05:25.130Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:05:30.135Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:05:35.138Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:05:40.141Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:05:45.145Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:05:50.148Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:05:55.151Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:06:00.154Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:06:05.157Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:06:10.159Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:06:15.164Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:06:20.165Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:06:25.169Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:06:30.175Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:06:35.177Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:06:40.180Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:06:45.182Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:06:50.187Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:06:55.190Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:07:00.196Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:07:05.198Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:07:10.201Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:07:15.203Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:07:20.207Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:07:25.209Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:07:30.213Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:07:35.218Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:07:40.222Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:07:45.226Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:07:50.228Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:07:55.231Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:08:00.236Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:08:05.238Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:08:10.240Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:08:15.243Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:08:20.247Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:08:25.251Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:08:30.255Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:08:35.257Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:08:40.262Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:08:45.265Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:08:50.269Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:08:55.274Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:09:00.276Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:09:05.279Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:09:10.282Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:09:15.286Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:09:20.290Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:09:25.294Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:09:30.296Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:09:35.298Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 0)
+2022-12-29T08:09:40.303Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 1)
+2022-12-29T08:09:45.305Z [info] 'FUXA Server' setValue(t_10b0fe48-16f543ad, 2)
+2022-12-29T08:30:21.397Z [info] socket.io client connected
+2022-12-29T08:33:16.954Z [info] socket.io client connected
+2022-12-29T09:08:52.692Z [info] 'mqtt2' stop
+2022-12-29T09:08:52.696Z [warn] 'mqtt2' client close mqtt://192.168.14.15:1883
+2022-12-29T09:08:52.697Z [info] 'mqtt2' exist
+2022-12-29T09:08:52.698Z [info] 'mqtt2' data loaded (1)
+2022-12-29T09:08:52.698Z [info] 'mqtt2' start
+2022-12-29T09:08:52.698Z [info] 'mqtt2' try to connect mqtt://192.168.14.15:1883
+2022-12-29T09:08:52.706Z [info] 'mqtt2' connected!
+2022-12-30T01:24:05.068Z [info] daqstorage.checkRetention processed
+2022-12-30T02:24:57.861Z [info] socket.io client connected
+2022-12-30T02:34:30.973Z [info] socket.io client connected
+2022-12-30T04:23:42.981Z [info] socket.io client connected
+2022-12-30T04:26:02.532Z [info] socket.io client connected
+2022-12-30T04:26:33.174Z [info] socket.io client connected
+2022-12-30T04:27:10.418Z [info] socket.io client connected
+2022-12-30T04:29:34.944Z [info] socket.io client connected
+2022-12-30T04:56:09.886Z [info] socket.io client connected
+2022-12-31T01:24:10.986Z [info] daqstorage.checkRetention processed
+2023-01-01T01:24:16.769Z [info] daqstorage.checkRetention processed
+2023-01-02T01:24:22.323Z [info] daqstorage.checkRetention processed
+2023-01-03T01:13:59.534Z [info] socket.io client connected
+2023-01-03T01:17:47.680Z [info] socket.io client connected
+2023-01-03T01:22:22.849Z [info] socket.io client connected
+2023-01-03T01:24:28.135Z [info] daqstorage.checkRetention processed
+2023-01-04T00:59:30.962Z [info] socket.io client connected
+2023-01-04T01:23:13.304Z [info] socket.io client connected
+2023-01-04T01:24:33.959Z [info] daqstorage.checkRetention processed
+2023-01-04T04:49:25.608Z [info] 'mqtt2' stop
+2023-01-04T04:49:25.612Z [warn] 'mqtt2' client close mqtt://192.168.14.15:1883
+2023-01-04T04:49:25.613Z [info] 'mqtt2' exist
+2023-01-04T04:49:25.613Z [info] 'mqtt2' data loaded (1)
+2023-01-04T04:49:25.614Z [info] 'mqtt2' start
+2023-01-04T04:49:25.614Z [info] 'mqtt2' try to connect mqtt://192.168.14.15:1883
+2023-01-04T04:49:25.622Z [info] 'mqtt2' connected!
+2023-01-04T04:50:02.858Z [info] 'mqtt' stop
+2023-01-04T04:50:02.862Z [warn] 'mqtt' client close mqtt://192.168.14.15:1883
+2023-01-04T04:50:02.863Z [info] 'mqtt' exist
+2023-01-04T04:50:02.864Z [info] 'mqtt' data loaded (1)
+2023-01-04T04:50:02.864Z [info] 'mqtt' start
+2023-01-04T04:50:02.865Z [info] 'mqtt' try to connect mqtt://192.168.14.15:1883
+2023-01-04T04:50:02.872Z [info] 'mqtt' connected!
+2023-01-04T04:50:29.317Z [info] socket.io client connected
+2023-01-05T00:50:56.436Z [info] socket.io client connected
+2023-01-05T00:52:20.673Z [info] socket.io client connected
+2023-01-05T01:24:37.350Z [info] daqstorage.checkRetention processed
+2023-01-06T00:45:57.551Z [info] socket.io client connected
+2023-01-06T01:24:40.382Z [info] daqstorage.checkRetention processed
+2023-01-07T01:24:43.333Z [info] daqstorage.checkRetention processed
+2023-01-08T01:24:46.371Z [info] daqstorage.checkRetention processed
+2023-01-09T01:11:46.784Z [info] socket.io client connected
+2023-01-09T01:17:40.378Z [info] socket.io client connected
+2023-01-09T01:23:12.726Z [info] socket.io client connected
+2023-01-09T01:23:46.584Z [info] socket.io client connected
+2023-01-09T01:24:49.353Z [info] daqstorage.checkRetention processed
+2023-01-09T01:25:38.036Z [info] socket.io client connected
+2023-01-09T04:21:35.745Z [info] socket.io client connected
+2023-01-09T08:42:20.481Z [info] socket.io client connected
+2023-01-10T00:55:31.837Z [info] socket.io client connected
+2023-01-10T01:24:52.334Z [info] daqstorage.checkRetention processed
+2023-01-10T02:03:58.774Z [info] socket.io client connected
+2023-01-10T02:30:56.325Z [info] 'FUXA Server' stop
+2023-01-10T02:30:56.327Z [info] 'mqtt' stop
+2023-01-10T02:30:56.330Z [info] 'mqtt2' stop
+2023-01-10T02:30:56.332Z [info] alarms.stop-checkstatus!
+2023-01-10T02:30:56.332Z [info] notificator.stop-checkstatus!
+2023-01-10T02:30:56.333Z [info] scripts.stop-checkstatus!
+2023-01-10T02:30:56.333Z [info] jobs.stop-checkstatus!
+2023-01-10T02:30:56.337Z [info] runtime.update-project: stopped!
+2023-01-10T02:30:56.343Z [warn] 'mqtt2' client close mqtt://192.168.14.15:1883
+2023-01-10T02:30:56.347Z [warn] 'mqtt' client close mqtt://192.168.14.15:1883
+2023-01-10T02:30:56.376Z [info] daqstorage.closed successful! '0'
+2023-01-10T02:30:56.376Z [info] daqstorage.closed successful! 'd_eb86b4b8-f86c4397'
+2023-01-10T02:30:56.377Z [info] daqstorage.closed successful! 'd_8ef9cab2-26f0490a'
+2023-01-10T02:30:56.377Z [info] daqstorage reset!
+2023-01-10T02:30:56.382Z [info] 'FUXA Server' data loaded (1)
+2023-01-10T02:30:56.383Z [info] 'FUXA Server' created
+2023-01-10T02:30:56.398Z [info] 'mqtt2' data loaded (1)
+2023-01-10T02:30:56.399Z [info] 'mqtt2' created
+2023-01-10T02:30:56.403Z [info] 'mqtt' data loaded (1)
+2023-01-10T02:30:56.403Z [info] 'mqtt' created
+2023-01-10T02:30:56.407Z [info] 'FUXA Server' start
+2023-01-10T02:30:56.408Z [info] 'mqtt2' start
+2023-01-10T02:30:56.409Z [info] 'mqtt2' try to connect mqtt://192.168.14.15:1883
+2023-01-10T02:30:56.411Z [info] 'mqtt' start
+2023-01-10T02:30:56.411Z [info] 'mqtt' try to connect mqtt://192.168.14.15:1883
+2023-01-10T02:30:56.412Z [info] alarms check start
+2023-01-10T02:30:56.413Z [info] notificator check start
+2023-01-10T02:30:56.414Z [info] scripts.start-checkstatus
+2023-01-10T02:30:56.415Z [info] jobs check start
+2023-01-10T02:30:56.416Z [info] runtime.update-project: restart!
+2023-01-10T02:30:56.422Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20221229025823.db' database
+2023-01-10T02:30:56.422Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230110023056.db' database
+2023-01-10T02:30:56.423Z [info] daqstorage.bind-daq-map '_db/daq-map_0.db' database
+2023-01-10T02:30:56.424Z [info] daqstorage.bind-daq-data '_db/daq-data_d_8ef9cab2-26f0490a_20221229073843.db' database
+2023-01-10T02:30:56.424Z [info] daqstorage.bind-daq-data '_db/daq-data_d_8ef9cab2-26f0490a_20230110023056.db' database
+2023-01-10T02:30:56.424Z [info] daqstorage.bind-daq-map '_db/daq-map_d_8ef9cab2-26f0490a.db' database
+2023-01-10T02:30:56.425Z [info] daqstorage.bind-daq-data '_db/daq-data_d_eb86b4b8-f86c4397_20221229025823.db' database
+2023-01-10T02:30:56.425Z [info] daqstorage.bind-daq-data '_db/daq-data_d_eb86b4b8-f86c4397_20230110023056.db' database
+2023-01-10T02:30:56.425Z [info] daqstorage.bind-daq-map '_db/daq-map_d_eb86b4b8-f86c4397.db' database
+2023-01-10T02:30:56.451Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20221229025823.db'
+2023-01-10T02:30:56.454Z [info] daqstorage.connected-to-map '_db/daq-map_0.db' database
+2023-01-10T02:30:56.455Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_8ef9cab2-26f0490a_20221229073843.db'
+2023-01-10T02:30:56.456Z [info] daqstorage.connected-to-map '_db/daq-map_d_8ef9cab2-26f0490a.db' database
+2023-01-10T02:30:56.456Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_eb86b4b8-f86c4397_20221229025823.db'
+2023-01-10T02:30:56.457Z [info] daqstorage.connected-to-data '_db/daq-data_0_20230110023056.db' database
+2023-01-10T02:30:56.458Z [info] daqstorage.connected-to-data '_db/daq-data_d_8ef9cab2-26f0490a_20230110023056.db' database
+2023-01-10T02:30:56.460Z [info] daqstorage.connected-to-map '_db/daq-map_d_eb86b4b8-f86c4397.db' database
+2023-01-10T02:30:56.461Z [info] daqstorage.connected-to-data '_db/daq-data_d_eb86b4b8-f86c4397_20230110023056.db' database
+2023-01-10T02:30:56.463Z [info] daqstorage.load-map successful! 'd_8ef9cab2-26f0490a'
+2023-01-10T02:30:56.464Z [info] daqstorage.load-map successful! '0'
+2023-01-10T02:30:56.472Z [info] 'mqtt2' connected!
+2023-01-10T02:30:56.479Z [info] daqstorage.load-map successful! 'd_eb86b4b8-f86c4397'
+2023-01-10T02:30:56.480Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20221229025823.db' database deleted!
+2023-01-10T02:30:56.481Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_eb86b4b8-f86c4397_20221229025823.db' database deleted!
+2023-01-10T02:30:56.482Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_8ef9cab2-26f0490a_20221229073843.db' database deleted!
+2023-01-10T02:30:56.483Z [info] 'mqtt' connected!
+2023-01-10T02:30:57.416Z [info] alarmsstorage.connected-to /usr/src/app/FUXA/server/_appdata/alarms.fuxap.db database.
+2023-01-10T02:30:57.419Z [info] alarms.alarmstorage-init-successful!
+2023-01-10T02:30:59.635Z [error] api post projectData: Unauthorized
+2023-01-10T02:31:13.368Z [error] api post projectData: Unauthorized
+2023-01-10T02:31:20.358Z [error] api post projectData: Unauthorized
+2023-01-10T02:31:27.245Z [error] api post projectData: Unauthorized
+2023-01-10T02:31:33.221Z [error] api post settings: Unauthorized
+2023-01-10T02:31:41.501Z [error] api post projectData: Unauthorized
+2023-01-10T02:31:46.965Z [error] api get resources/images: Unauthorized!
+2023-01-10T02:31:50.785Z [error] api post projectData: Unauthorized
+2023-01-10T02:31:56.755Z [error] api post projectData: Unauthorized
+2023-01-10T02:32:08.001Z [error] api post projectData: Unauthorized
+2023-01-10T02:32:21.916Z [error] api post settings: Unauthorized
+2023-01-10T02:32:25.427Z [error] api post projectData: Unauthorized
+2023-01-10T02:32:52.878Z [error] api post projectData: Unauthorized
+2023-01-10T02:33:02.535Z [error] api post settings: Unauthorized
+2023-01-10T02:33:14.402Z [info] socket.io client connected
+2023-01-10T02:33:18.971Z [info] socket.io client connected
+2023-01-10T02:33:26.909Z [info] api-signin: your your 255
+2023-01-10T02:54:56.469Z [info] daqstorage.checkRetention processed
+2023-01-10T02:56:07.965Z [error] api post projectData: Tocken Expired
+2023-01-10T02:56:26.050Z [error] api post projectData: Unauthorized
+2023-01-10T02:56:39.677Z [info] api-signin: your your 255
+2023-01-10T04:08:28.558Z [info] socket.io client connected
+2023-01-10T04:08:39.907Z [info] api-signin: your your 255
+2023-01-10T04:13:30.184Z [info] socket.io client connected
+2023-01-10T04:13:39.320Z [info] socket.io client connected
+2023-01-10T04:13:48.470Z [info] 'FUXA Server' stop
+2023-01-10T04:13:48.471Z [info] 'mqtt2' stop
+2023-01-10T04:13:48.472Z [info] 'mqtt' stop
+2023-01-10T04:13:48.473Z [info] alarms.stop-checkstatus!
+2023-01-10T04:13:48.473Z [info] notificator.stop-checkstatus!
+2023-01-10T04:13:48.474Z [info] scripts.stop-checkstatus!
+2023-01-10T04:13:48.474Z [info] jobs.stop-checkstatus!
+2023-01-10T04:13:48.474Z [info] runtime.update-project: stopped!
+2023-01-10T04:13:48.476Z [warn] 'mqtt' client close mqtt://192.168.14.15:1883
+2023-01-10T04:13:48.478Z [warn] 'mqtt2' client close mqtt://192.168.14.15:1883
+2023-01-10T04:13:48.490Z [info] daqstorage.closed successful! '0'
+2023-01-10T04:13:48.491Z [info] daqstorage.closed successful! 'd_8ef9cab2-26f0490a'
+2023-01-10T04:13:48.491Z [info] daqstorage.closed successful! 'd_eb86b4b8-f86c4397'
+2023-01-10T04:13:48.492Z [info] daqstorage reset!
+2023-01-10T04:13:48.492Z [info] 'FUXA Server' data loaded (1)
+2023-01-10T04:13:48.493Z [info] 'FUXA Server' created
+2023-01-10T04:13:48.496Z [info] 'mqtt2' data loaded (1)
+2023-01-10T04:13:48.497Z [info] 'mqtt2' created
+2023-01-10T04:13:48.503Z [info] 'mqtt' data loaded (1)
+2023-01-10T04:13:48.503Z [info] 'mqtt' created
+2023-01-10T04:13:48.507Z [info] 'FUXA Server' start
+2023-01-10T04:13:48.507Z [info] 'mqtt2' start
+2023-01-10T04:13:48.507Z [info] 'mqtt2' try to connect mqtt://192.168.14.15:1883
+2023-01-10T04:13:48.508Z [info] 'mqtt' start
+2023-01-10T04:13:48.509Z [info] 'mqtt' try to connect mqtt://192.168.14.15:1883
+2023-01-10T04:13:48.509Z [info] alarms check start
+2023-01-10T04:13:48.510Z [info] notificator check start
+2023-01-10T04:13:48.510Z [info] scripts.start-checkstatus
+2023-01-10T04:13:48.510Z [info] jobs check start
+2023-01-10T04:13:48.511Z [info] runtime.update-project: restart!
+2023-01-10T04:13:48.513Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230110023056.db' database
+2023-01-10T04:13:48.514Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230110041348.db' database
+2023-01-10T04:13:48.514Z [info] daqstorage.bind-daq-map '_db/daq-map_0.db' database
+2023-01-10T04:13:48.515Z [info] daqstorage.bind-daq-data '_db/daq-data_d_8ef9cab2-26f0490a_20230110023056.db' database
+2023-01-10T04:13:48.515Z [info] daqstorage.bind-daq-data '_db/daq-data_d_8ef9cab2-26f0490a_20230110041348.db' database
+2023-01-10T04:13:48.515Z [info] daqstorage.bind-daq-map '_db/daq-map_d_8ef9cab2-26f0490a.db' database
+2023-01-10T04:13:48.516Z [info] daqstorage.bind-daq-data '_db/daq-data_d_eb86b4b8-f86c4397_20230110023056.db' database
+2023-01-10T04:13:48.516Z [info] daqstorage.bind-daq-data '_db/daq-data_d_eb86b4b8-f86c4397_20230110041348.db' database
+2023-01-10T04:13:48.517Z [info] daqstorage.bind-daq-map '_db/daq-map_d_eb86b4b8-f86c4397.db' database
+2023-01-10T04:13:48.527Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230110023056.db'
+2023-01-10T04:13:48.530Z [info] daqstorage.connected-to-map '_db/daq-map_0.db' database
+2023-01-10T04:13:48.531Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_8ef9cab2-26f0490a_20230110023056.db'
+2023-01-10T04:13:48.532Z [info] daqstorage.connected-to-map '_db/daq-map_d_8ef9cab2-26f0490a.db' database
+2023-01-10T04:13:48.532Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_eb86b4b8-f86c4397_20230110023056.db'
+2023-01-10T04:13:48.534Z [info] daqstorage.connected-to-data '_db/daq-data_0_20230110041348.db' database
+2023-01-10T04:13:48.535Z [info] daqstorage.connected-to-map '_db/daq-map_d_eb86b4b8-f86c4397.db' database
+2023-01-10T04:13:48.536Z [info] daqstorage.connected-to-data '_db/daq-data_d_8ef9cab2-26f0490a_20230110041348.db' database
+2023-01-10T04:13:48.538Z [info] daqstorage.load-map successful! 'd_8ef9cab2-26f0490a'
+2023-01-10T04:13:48.538Z [info] daqstorage.load-map successful! '0'
+2023-01-10T04:13:48.542Z [info] 'mqtt2' connected!
+2023-01-10T04:13:48.544Z [info] daqstorage.load-map successful! 'd_eb86b4b8-f86c4397'
+2023-01-10T04:13:48.545Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230110023056.db' database deleted!
+2023-01-10T04:13:48.545Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_8ef9cab2-26f0490a_20230110023056.db' database deleted!
+2023-01-10T04:13:48.546Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_eb86b4b8-f86c4397_20230110023056.db' database deleted!
+2023-01-10T04:13:48.546Z [info] daqstorage.connected-to-data '_db/daq-data_d_eb86b4b8-f86c4397_20230110041348.db' database
+2023-01-10T04:13:48.548Z [info] 'mqtt' connected!
+2023-01-10T04:13:49.512Z [info] alarmsstorage.connected-to /usr/src/app/FUXA/server/_appdata/alarms.fuxap.db database.
+2023-01-10T04:13:49.513Z [info] alarms.alarmstorage-init-successful!
+2023-01-11T01:00:20.042Z [info] socket.io client connected
+2023-01-11T01:25:01.053Z [info] daqstorage.checkRetention processed
+2023-01-11T02:12:46.056Z [info] socket.io client connected
+2023-01-12T01:12:22.460Z [info] socket.io client connected
+2023-01-12T01:14:12.202Z [info] socket.io client connected
+2023-01-12T01:25:04.065Z [info] daqstorage.checkRetention processed
+2023-01-13T00:49:57.993Z [info] socket.io client connected
+2023-01-13T01:25:07.115Z [info] daqstorage.checkRetention processed
+2023-01-13T05:36:39.747Z [info] socket.io client connected
+2023-01-14T01:25:10.072Z [info] daqstorage.checkRetention processed
+2023-01-15T01:25:13.090Z [info] daqstorage.checkRetention processed
+2023-01-16T00:47:36.921Z [info] socket.io client connected
+2023-01-16T01:25:16.169Z [info] daqstorage.checkRetention processed
+2023-01-17T00:38:13.283Z [info] socket.io client connected
+2023-01-17T01:23:03.532Z [info] socket.io client connected
+2023-01-17T01:25:19.090Z [info] daqstorage.checkRetention processed
+2023-01-18T00:39:29.985Z [info] socket.io client connected
+2023-01-18T01:25:22.142Z [info] daqstorage.checkRetention processed
+2023-01-19T00:45:14.693Z [info] socket.io client connected
+2023-01-19T01:25:25.033Z [info] daqstorage.checkRetention processed
+2023-01-20T00:39:09.486Z [info] socket.io client connected
+2023-01-20T01:25:27.932Z [info] daqstorage.checkRetention processed
+2023-01-21T01:25:30.791Z [info] daqstorage.checkRetention processed
+2023-01-22T01:25:33.845Z [info] daqstorage.checkRetention processed
+2023-01-23T01:25:36.956Z [info] daqstorage.checkRetention processed
+2023-01-24T01:25:39.873Z [info] daqstorage.checkRetention processed
+2023-01-25T01:25:42.889Z [info] daqstorage.checkRetention processed
+2023-01-26T01:25:46.012Z [info] daqstorage.checkRetention processed
+2023-01-27T01:25:48.975Z [info] daqstorage.checkRetention processed
+2023-01-28T00:44:16.849Z [info] socket.io client connected
+2023-01-28T01:25:51.945Z [info] daqstorage.checkRetention processed
+2023-01-29T00:51:56.778Z [info] socket.io client connected
+2023-01-29T01:25:54.820Z [info] daqstorage.checkRetention processed
+2023-01-29T05:20:48.219Z [info] 'mqtt-ctr' data loaded (0)
+2023-01-29T05:20:48.220Z [info] 'mqtt-ctr' created
+2023-01-29T05:20:48.231Z [info] 'mqtt-ctr' start
+2023-01-29T05:20:48.232Z [error] 'mqtt-ctr' missing connection data!
+2023-01-29T05:20:48.240Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230129052048.db' database
+2023-01-29T05:20:48.241Z [info] daqstorage.bind-daq-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-01-29T05:20:48.250Z [info] daqstorage.connected-to-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-01-29T05:20:48.252Z [info] daqstorage.connected-to-data '_db/daq-data_d_0971e054-c5f64d26_20230129052048.db' database
+2023-01-29T05:20:48.253Z [info] daqstorage.load-map successful! 'd_0971e054-c5f64d26'
+2023-01-29T05:20:53.235Z [error] 'mqtt-ctr' missing connection data!
+2023-01-29T05:20:58.235Z [error] 'mqtt-ctr' missing connection data!
+2023-01-29T05:21:03.236Z [error] 'mqtt-ctr' missing connection data!
+2023-01-29T05:21:08.235Z [error] 'mqtt-ctr' missing connection data!
+2023-01-29T05:21:13.235Z [error] 'mqtt-ctr' missing connection data!
+2023-01-29T05:21:18.235Z [error] 'mqtt-ctr' missing connection data!
+2023-01-29T05:21:23.235Z [error] 'mqtt-ctr' missing connection data!
+2023-01-29T05:21:28.236Z [error] 'mqtt-ctr' missing connection data!
+2023-01-29T05:21:33.236Z [error] 'mqtt-ctr' missing connection data!
+2023-01-29T05:21:38.236Z [error] 'mqtt-ctr' missing connection data!
+2023-01-29T05:21:43.236Z [error] 'mqtt-ctr' missing connection data!
+2023-01-29T05:21:48.236Z [error] 'mqtt-ctr' missing connection data!
+2023-01-29T05:21:52.016Z [info] 'mqtt-ctr' stop
+2023-01-29T05:21:52.017Z [info] 'mqtt-ctr' exist
+2023-01-29T05:21:52.018Z [info] 'mqtt-ctr' data loaded (0)
+2023-01-29T05:21:52.018Z [info] 'mqtt-ctr' start
+2023-01-29T05:21:52.018Z [info] 'mqtt-ctr' try to connect mqtt://192.168.14.15:1883
+2023-01-29T05:21:52.052Z [info] 'mqtt-ctr' connected!
+2023-01-29T05:26:05.886Z [info] 'mqtt-ctr' stop
+2023-01-29T05:26:05.891Z [warn] 'mqtt-ctr' client close mqtt://192.168.14.15:1883
+2023-01-29T05:26:05.893Z [info] 'mqtt-ctr' exist
+2023-01-29T05:26:05.894Z [info] 'mqtt-ctr' data loaded (1)
+2023-01-29T05:26:05.894Z [info] 'mqtt-ctr' start
+2023-01-29T05:26:05.894Z [info] 'mqtt-ctr' try to connect mqtt://192.168.14.15:1883
+2023-01-29T05:26:05.902Z [info] 'mqtt-ctr' connected!
+2023-01-29T05:47:33.406Z [info] 'mqtt-ctr' stop
+2023-01-29T05:47:33.409Z [warn] 'mqtt-ctr' client close mqtt://192.168.14.15:1883
+2023-01-29T05:47:33.411Z [info] 'mqtt-ctr' exist
+2023-01-29T05:47:33.411Z [info] 'mqtt-ctr' data loaded (1)
+2023-01-29T05:47:33.412Z [info] 'mqtt-ctr' start
+2023-01-29T05:47:33.412Z [info] 'mqtt-ctr' try to connect mqtt://192.168.14.15:1883
+2023-01-29T05:47:33.421Z [info] 'mqtt-ctr' connected!
+2023-01-29T05:47:34.513Z [info] 'mqtt-ctr' stop
+2023-01-29T05:47:34.517Z [warn] 'mqtt-ctr' client close mqtt://192.168.14.15:1883
+2023-01-29T05:47:34.518Z [info] 'mqtt-ctr' exist
+2023-01-29T05:47:34.519Z [info] 'mqtt-ctr' data loaded (1)
+2023-01-29T05:47:34.519Z [info] 'mqtt-ctr' start
+2023-01-29T05:47:34.519Z [info] 'mqtt-ctr' try to connect mqtt://192.168.14.15:1883
+2023-01-29T05:47:34.526Z [info] 'mqtt-ctr' connected!
+2023-01-29T05:50:58.750Z [info] 'mqtt-ctr' stop
+2023-01-29T05:50:58.754Z [warn] 'mqtt-ctr' client close mqtt://192.168.14.15:1883
+2023-01-29T05:50:58.755Z [info] 'mqtt-ctr' exist
+2023-01-29T05:50:58.757Z [info] 'mqtt-ctr' data loaded (2)
+2023-01-29T05:50:58.757Z [info] 'mqtt-ctr' start
+2023-01-29T05:50:58.757Z [info] 'mqtt-ctr' try to connect mqtt://192.168.14.15:1883
+2023-01-29T05:50:58.766Z [info] 'mqtt-ctr' connected!
+2023-01-29T05:51:51.919Z [info] 'mqtt-ctr' stop
+2023-01-29T05:51:51.923Z [warn] 'mqtt-ctr' client close mqtt://192.168.14.15:1883
+2023-01-29T05:51:51.924Z [info] 'mqtt-ctr' exist
+2023-01-29T05:51:51.925Z [info] 'mqtt-ctr' data loaded (2)
+2023-01-29T05:51:51.925Z [info] 'mqtt-ctr' start
+2023-01-29T05:51:51.925Z [info] 'mqtt-ctr' try to connect mqtt://192.168.14.15:1883
+2023-01-29T05:51:51.932Z [info] 'mqtt-ctr' connected!
+2023-01-29T06:02:23.238Z [info] socket.io client connected
+2023-01-29T06:25:45.069Z [info] socket.io client connected
+2023-01-29T06:31:38.516Z [info] 'mqtt-ctr' stop
+2023-01-29T06:31:38.520Z [warn] 'mqtt-ctr' client close mqtt://192.168.14.15:1883
+2023-01-29T06:31:38.523Z [info] 'mqtt-ctr' exist
+2023-01-29T06:31:38.523Z [info] 'mqtt-ctr' data loaded (3)
+2023-01-29T06:31:38.524Z [info] 'mqtt-ctr' start
+2023-01-29T06:31:38.524Z [info] 'mqtt-ctr' try to connect mqtt://192.168.14.15:1883
+2023-01-29T06:31:38.533Z [info] 'mqtt-ctr' connected!
+2023-01-29T06:32:00.182Z [info] 'mqtt-ctr' stop
+2023-01-29T06:32:00.186Z [warn] 'mqtt-ctr' client close mqtt://192.168.14.15:1883
+2023-01-29T06:32:00.188Z [info] 'mqtt-ctr' exist
+2023-01-29T06:32:00.189Z [info] 'mqtt-ctr' data loaded (3)
+2023-01-29T06:32:00.189Z [info] 'mqtt-ctr' start
+2023-01-29T06:32:00.190Z [info] 'mqtt-ctr' try to connect mqtt://192.168.14.15:1883
+2023-01-29T06:32:00.197Z [info] 'mqtt-ctr' connected!
+2023-01-29T06:32:14.391Z [info] 'mqtt-ctr' stop
+2023-01-29T06:32:14.394Z [warn] 'mqtt-ctr' client close mqtt://192.168.14.15:1883
+2023-01-29T06:32:14.396Z [info] 'mqtt-ctr' exist
+2023-01-29T06:32:14.397Z [info] 'mqtt-ctr' data loaded (3)
+2023-01-29T06:32:14.397Z [info] 'mqtt-ctr' start
+2023-01-29T06:32:14.398Z [info] 'mqtt-ctr' try to connect mqtt://192.168.14.15:1883
+2023-01-29T06:32:14.405Z [info] 'mqtt-ctr' connected!
+2023-01-29T06:32:44.687Z [info] 'mqtt-ctr' stop
+2023-01-29T06:32:44.690Z [warn] 'mqtt-ctr' client close mqtt://192.168.14.15:1883
+2023-01-29T06:32:44.693Z [info] 'mqtt-ctr' exist
+2023-01-29T06:32:44.693Z [info] 'mqtt-ctr' data loaded (3)
+2023-01-29T06:32:44.694Z [info] 'mqtt-ctr' start
+2023-01-29T06:32:44.694Z [info] 'mqtt-ctr' try to connect mqtt://192.168.14.15:1883
+2023-01-29T06:32:44.713Z [info] 'mqtt-ctr' connected!
+2023-01-29T06:33:05.314Z [info] 'mqtt-ctr' stop
+2023-01-29T06:33:05.318Z [warn] 'mqtt-ctr' client close mqtt://192.168.14.15:1883
+2023-01-29T06:33:05.320Z [info] 'mqtt-ctr' exist
+2023-01-29T06:33:05.321Z [info] 'mqtt-ctr' data loaded (3)
+2023-01-29T06:33:05.321Z [info] 'mqtt-ctr' start
+2023-01-29T06:33:05.321Z [info] 'mqtt-ctr' try to connect mqtt://192.168.14.15:1883
+2023-01-29T06:33:05.328Z [info] 'mqtt-ctr' connected!
+2023-01-29T06:49:15.714Z [info] socket.io client connected
+2023-01-30T00:37:39.521Z [info] socket.io client connected
+2023-01-30T01:25:57.591Z [info] daqstorage.checkRetention processed
+2023-01-30T05:32:31.653Z [info] 'mqtt-stuts' data loaded (0)
+2023-01-30T05:32:31.654Z [info] 'mqtt-stuts' created
+2023-01-30T05:32:31.666Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230130053231.db' database
+2023-01-30T05:32:31.667Z [info] daqstorage.bind-daq-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-01-30T05:32:31.677Z [info] daqstorage.connected-to-data '_db/daq-data_d_fe0d0264-0cc44f76_20230130053231.db' database
+2023-01-30T05:32:31.678Z [info] daqstorage.connected-to-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-01-30T05:32:31.680Z [info] daqstorage.load-map successful! 'd_fe0d0264-0cc44f76'
+2023-01-30T05:32:54.328Z [error] device-browse: browse-error: TypeError: Cannot read property 'on' of null
+2023-01-30T05:36:42.471Z [info] 'mqtt-stuts' stop
+2023-01-30T05:36:42.472Z [info] 'mqtt-status' exist
+2023-01-30T05:36:42.472Z [info] 'mqtt-status' data loaded (0)
+2023-01-30T05:36:55.295Z [error] device-browse: Device not found!
+2023-01-30T05:37:15.413Z [error] device-browse: Device not found!
+2023-01-30T05:37:28.885Z [error] device-browse: Device not found!
+2023-01-30T05:42:56.844Z [error] device-browse: Device not found!
+2023-01-30T05:43:52.803Z [info] 'mqtt-status' data loaded (0)
+2023-01-30T05:43:52.803Z [info] 'mqtt-status' created
+2023-01-30T05:43:52.804Z [info] 'mqtt-status' start
+2023-01-30T05:43:52.804Z [info] 'mqtt-status' try to connect mqtt://192.168.14.15:1883
+2023-01-30T05:43:52.815Z [info] 'mqtt-status' connected!
+2023-01-30T05:48:44.612Z [info] 'mqtt-status' stop
+2023-01-30T05:48:44.616Z [warn] 'mqtt-status' client close mqtt://192.168.14.15:1883
+2023-01-30T05:48:44.617Z [info] 'mqtt-status' exist
+2023-01-30T05:48:44.618Z [info] 'mqtt-status' data loaded (4)
+2023-01-30T05:48:44.619Z [info] 'mqtt-status' start
+2023-01-30T05:48:44.619Z [info] 'mqtt-status' try to connect mqtt://192.168.14.15:1883
+2023-01-30T05:48:44.626Z [info] 'mqtt-status' connected!
+2023-01-30T05:51:03.123Z [info] 'mqtt-status' stop
+2023-01-30T05:51:03.127Z [warn] 'mqtt-status' client close mqtt://192.168.14.15:1883
+2023-01-30T05:51:03.129Z [info] 'mqtt-status' exist
+2023-01-30T05:51:03.129Z [info] 'mqtt-status' data loaded (4)
+2023-01-30T05:51:03.130Z [info] 'mqtt-status' start
+2023-01-30T05:51:03.130Z [info] 'mqtt-status' try to connect mqtt://192.168.14.15:1883
+2023-01-30T05:51:03.139Z [info] 'mqtt-status' connected!
+2023-01-30T05:51:09.026Z [info] 'mqtt-status' stop
+2023-01-30T05:51:09.030Z [warn] 'mqtt-status' client close mqtt://192.168.14.15:1883
+2023-01-30T05:51:09.031Z [info] 'mqtt-status' exist
+2023-01-30T05:51:09.032Z [info] 'mqtt-status' data loaded (4)
+2023-01-30T05:51:09.032Z [info] 'mqtt-status' start
+2023-01-30T05:51:09.032Z [info] 'mqtt-status' try to connect mqtt://192.168.14.15:1883
+2023-01-30T05:51:09.039Z [info] 'mqtt-status' connected!
+2023-01-30T05:51:14.052Z [info] 'mqtt-status' stop
+2023-01-30T05:51:14.066Z [warn] 'mqtt-status' client close mqtt://192.168.14.15:1883
+2023-01-30T05:51:14.068Z [info] 'mqtt-status' exist
+2023-01-30T05:51:14.069Z [info] 'mqtt-status' data loaded (4)
+2023-01-30T05:51:14.069Z [info] 'mqtt-status' start
+2023-01-30T05:51:14.069Z [info] 'mqtt-status' try to connect mqtt://192.168.14.15:1883
+2023-01-30T05:51:14.077Z [info] 'mqtt-status' connected!
+2023-01-30T05:51:20.568Z [info] 'mqtt-status' stop
+2023-01-30T05:51:20.572Z [warn] 'mqtt-status' client close mqtt://192.168.14.15:1883
+2023-01-30T05:51:20.574Z [info] 'mqtt-status' exist
+2023-01-30T05:51:20.575Z [info] 'mqtt-status' data loaded (4)
+2023-01-30T05:51:20.575Z [info] 'mqtt-status' start
+2023-01-30T05:51:20.575Z [info] 'mqtt-status' try to connect mqtt://192.168.14.15:1883
+2023-01-30T05:51:20.582Z [info] 'mqtt-status' connected!
+2023-01-30T05:53:27.003Z [info] project.prjstorage.set-project successfull!
+2023-01-30T05:53:27.005Z [info] 'FUXA Server' stop
+2023-01-30T05:53:27.007Z [info] 'mqtt2' stop
+2023-01-30T05:53:27.008Z [info] 'mqtt' stop
+2023-01-30T05:53:27.009Z [info] 'mqtt-ctr' stop
+2023-01-30T05:53:27.010Z [info] 'mqtt-status' stop
+2023-01-30T05:53:27.012Z [info] alarms.stop-checkstatus!
+2023-01-30T05:53:27.013Z [info] notificator.stop-checkstatus!
+2023-01-30T05:53:27.014Z [info] scripts.stop-checkstatus!
+2023-01-30T05:53:27.014Z [info] jobs.stop-checkstatus!
+2023-01-30T05:53:27.017Z [info] runtime.update-project: stopped!
+2023-01-30T05:53:27.022Z [warn] 'mqtt-status' client close mqtt://192.168.14.15:1883
+2023-01-30T05:53:27.024Z [warn] 'mqtt-ctr' client close mqtt://192.168.14.15:1883
+2023-01-30T05:53:27.026Z [warn] 'mqtt' client close mqtt://192.168.14.15:1883
+2023-01-30T05:53:27.028Z [warn] 'mqtt2' client close mqtt://192.168.14.15:1883
+2023-01-30T05:53:27.057Z [info] daqstorage.closed successful! '0'
+2023-01-30T05:53:27.057Z [info] daqstorage.closed successful! 'd_8ef9cab2-26f0490a'
+2023-01-30T05:53:27.058Z [info] daqstorage.closed successful! 'd_eb86b4b8-f86c4397'
+2023-01-30T05:53:27.058Z [info] daqstorage.closed successful! 'd_0971e054-c5f64d26'
+2023-01-30T05:53:27.058Z [info] daqstorage.closed successful! 'd_fe0d0264-0cc44f76'
+2023-01-30T05:53:27.059Z [info] daqstorage reset!
+2023-01-30T05:53:27.061Z [info] 'FUXA Server' data loaded (1)
+2023-01-30T05:53:27.062Z [info] 'FUXA Server' created
+2023-01-30T05:53:27.066Z [info] 'mqtt2' data loaded (1)
+2023-01-30T05:53:27.067Z [info] 'mqtt2' created
+2023-01-30T05:53:27.070Z [info] 'mqtt' data loaded (1)
+2023-01-30T05:53:27.071Z [info] 'mqtt' created
+2023-01-30T05:53:27.074Z [info] 'mqtt-ctr' data loaded (3)
+2023-01-30T05:53:27.075Z [info] 'mqtt-ctr' created
+2023-01-30T05:53:27.078Z [info] 'mqtt-status' data loaded (4)
+2023-01-30T05:53:27.079Z [info] 'mqtt-status' created
+2023-01-30T05:53:27.083Z [info] 'FUXA Server' start
+2023-01-30T05:53:27.084Z [info] 'mqtt2' start
+2023-01-30T05:53:27.084Z [info] 'mqtt2' try to connect mqtt://192.168.14.15:1883
+2023-01-30T05:53:27.085Z [info] 'mqtt' start
+2023-01-30T05:53:27.086Z [info] 'mqtt' try to connect mqtt://192.168.14.15:1883
+2023-01-30T05:53:27.086Z [info] 'mqtt-ctr' start
+2023-01-30T05:53:27.087Z [info] 'mqtt-ctr' try to connect mqtt://192.168.14.15:1883
+2023-01-30T05:53:27.088Z [info] 'mqtt-status' start
+2023-01-30T05:53:27.088Z [info] 'mqtt-status' try to connect mqtt://192.168.14.15:1883
+2023-01-30T05:53:27.089Z [info] alarms check start
+2023-01-30T05:53:27.090Z [info] notificator check start
+2023-01-30T05:53:27.090Z [info] scripts.start-checkstatus
+2023-01-30T05:53:27.091Z [info] jobs check start
+2023-01-30T05:53:27.092Z [info] runtime.update-project: restart!
+2023-01-30T05:53:27.095Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230110041348.db' database
+2023-01-30T05:53:27.096Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230130055327.db' database
+2023-01-30T05:53:27.096Z [info] daqstorage.bind-daq-map '_db/daq-map_0.db' database
+2023-01-30T05:53:27.096Z [info] daqstorage.bind-daq-data '_db/daq-data_d_8ef9cab2-26f0490a_20230110041348.db' database
+2023-01-30T05:53:27.097Z [info] daqstorage.bind-daq-data '_db/daq-data_d_8ef9cab2-26f0490a_20230130055327.db' database
+2023-01-30T05:53:27.097Z [info] daqstorage.bind-daq-map '_db/daq-map_d_8ef9cab2-26f0490a.db' database
+2023-01-30T05:53:27.098Z [info] daqstorage.bind-daq-data '_db/daq-data_d_eb86b4b8-f86c4397_20230110041348.db' database
+2023-01-30T05:53:27.098Z [info] daqstorage.bind-daq-data '_db/daq-data_d_eb86b4b8-f86c4397_20230130055327.db' database
+2023-01-30T05:53:27.098Z [info] daqstorage.bind-daq-map '_db/daq-map_d_eb86b4b8-f86c4397.db' database
+2023-01-30T05:53:27.099Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230129052048.db' database
+2023-01-30T05:53:27.099Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230130055327.db' database
+2023-01-30T05:53:27.100Z [info] daqstorage.bind-daq-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-01-30T05:53:27.100Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230130053231.db' database
+2023-01-30T05:53:27.101Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230130055327.db' database
+2023-01-30T05:53:27.101Z [info] daqstorage.bind-daq-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-01-30T05:53:27.115Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230110041348.db'
+2023-01-30T05:53:27.117Z [info] daqstorage.connected-to-map '_db/daq-map_0.db' database
+2023-01-30T05:53:27.118Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_8ef9cab2-26f0490a_20230110041348.db'
+2023-01-30T05:53:27.122Z [info] daqstorage.connected-to-map '_db/daq-map_d_8ef9cab2-26f0490a.db' database
+2023-01-30T05:53:27.123Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_eb86b4b8-f86c4397_20230110041348.db'
+2023-01-30T05:53:27.127Z [info] daqstorage.connected-to-map '_db/daq-map_d_eb86b4b8-f86c4397.db' database
+2023-01-30T05:53:27.128Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230129052048.db'
+2023-01-30T05:53:27.129Z [info] daqstorage.connected-to-data '_db/daq-data_d_8ef9cab2-26f0490a_20230130055327.db' database
+2023-01-30T05:53:27.129Z [info] daqstorage.connected-to-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-01-30T05:53:27.130Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230130053231.db'
+2023-01-30T05:53:27.142Z [info] daqstorage.connected-to-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-01-30T05:53:27.144Z [info] daqstorage.connected-to-data '_db/daq-data_d_eb86b4b8-f86c4397_20230130055327.db' database
+2023-01-30T05:53:27.145Z [info] daqstorage.connected-to-data '_db/daq-data_0_20230130055327.db' database
+2023-01-30T05:53:27.146Z [info] daqstorage.connected-to-data '_db/daq-data_d_0971e054-c5f64d26_20230130055327.db' database
+2023-01-30T05:53:27.147Z [info] daqstorage.connected-to-data '_db/daq-data_d_fe0d0264-0cc44f76_20230130055327.db' database
+2023-01-30T05:53:27.151Z [info] daqstorage.load-map successful! '0'
+2023-01-30T05:53:27.152Z [info] daqstorage.load-map successful! 'd_8ef9cab2-26f0490a'
+2023-01-30T05:53:27.153Z [info] daqstorage.load-map successful! 'd_eb86b4b8-f86c4397'
+2023-01-30T05:53:27.155Z [info] 'mqtt2' connected!
+2023-01-30T05:53:27.158Z [info] 'mqtt' connected!
+2023-01-30T05:53:27.161Z [info] 'mqtt-status' connected!
+2023-01-30T05:53:27.162Z [info] daqstorage.load-map successful! 'd_fe0d0264-0cc44f76'
+2023-01-30T05:53:27.163Z [info] daqstorage.load-map successful! 'd_0971e054-c5f64d26'
+2023-01-30T05:53:27.164Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_8ef9cab2-26f0490a_20230110041348.db' database deleted!
+2023-01-30T05:53:27.165Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230110041348.db' database deleted!
+2023-01-30T05:53:27.166Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_eb86b4b8-f86c4397_20230110041348.db' database deleted!
+2023-01-30T05:53:27.166Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230129052048.db' database deleted!
+2023-01-30T05:53:27.168Z [info] 'mqtt-ctr' connected!
+2023-01-30T05:53:27.170Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230130053231.db' database deleted!
+2023-01-30T05:53:28.093Z [info] alarmsstorage.connected-to /usr/src/app/FUXA/server/_appdata/alarms.fuxap.db database.
+2023-01-30T05:53:28.096Z [info] alarms.alarmstorage-init-successful!
+2023-01-30T05:58:56.031Z [info] socket.io client connected
+2023-01-30T06:29:34.298Z [info] 'mqtt-status' stop
+2023-01-30T06:29:34.302Z [warn] 'mqtt-status' client close mqtt://192.168.14.15:1883
+2023-01-30T06:29:34.303Z [info] 'mqtt-status' exist
+2023-01-30T06:29:34.304Z [info] 'mqtt-status' data loaded (4)
+2023-01-30T06:29:34.304Z [info] 'mqtt-status' start
+2023-01-30T06:29:34.305Z [info] 'mqtt-status' try to connect mqtt://192.168.14.15:1883
+2023-01-30T06:29:34.312Z [info] 'mqtt-status' connected!
+2023-01-30T06:29:42.254Z [info] 'mqtt-status' stop
+2023-01-30T06:29:42.257Z [warn] 'mqtt-status' client close mqtt://192.168.14.15:1883
+2023-01-30T06:29:42.259Z [info] 'mqtt-status' exist
+2023-01-30T06:29:42.259Z [info] 'mqtt-status' data loaded (4)
+2023-01-30T06:29:42.260Z [info] 'mqtt-status' start
+2023-01-30T06:29:42.260Z [info] 'mqtt-status' try to connect mqtt://192.168.14.15:1883
+2023-01-30T06:29:42.267Z [info] 'mqtt-status' connected!
+2023-01-30T06:30:04.699Z [info] 'mqtt-status' stop
+2023-01-30T06:30:04.703Z [warn] 'mqtt-status' client close mqtt://192.168.14.15:1883
+2023-01-30T06:30:04.705Z [info] 'mqtt-status' exist
+2023-01-30T06:30:04.705Z [info] 'mqtt-status' data loaded (4)
+2023-01-30T06:30:04.706Z [info] 'mqtt-status' start
+2023-01-30T06:30:04.706Z [info] 'mqtt-status' try to connect mqtt://192.168.14.15:1883
+2023-01-30T06:30:04.712Z [info] 'mqtt-status' connected!
+2023-01-30T06:30:12.392Z [info] 'mqtt-status' stop
+2023-01-30T06:30:12.395Z [warn] 'mqtt-status' client close mqtt://192.168.14.15:1883
+2023-01-30T06:30:12.396Z [info] 'mqtt-status' exist
+2023-01-30T06:30:12.397Z [info] 'mqtt-status' data loaded (4)
+2023-01-30T06:30:12.397Z [info] 'mqtt-status' start
+2023-01-30T06:30:12.398Z [info] 'mqtt-status' try to connect mqtt://192.168.14.15:1883
+2023-01-30T06:30:12.404Z [info] 'mqtt-status' connected!
+2023-01-30T07:09:20.517Z [info] socket.io client connected
+2023-01-30T07:12:26.920Z [info] socket.io client connected
+2023-01-30T08:17:10.348Z [info] socket.io client connected
+2023-01-30T09:02:35.877Z [info] socket.io client connected
+2023-01-30T09:18:26.746Z [info] 'mqtt' stop
+2023-01-30T09:18:26.750Z [warn] 'mqtt' client close mqtt://192.168.14.15:1883
+2023-01-30T09:18:29.864Z [info] 'mqtt2' stop
+2023-01-30T09:18:29.868Z [warn] 'mqtt2' client close mqtt://192.168.14.15:1883
+2023-01-31T00:34:03.445Z [info] socket.io client connected
+2023-01-31T00:34:38.510Z [info] socket.io client connected
+2023-01-31T00:43:17.281Z [info] socket.io client connected
+2023-01-31T01:26:04.321Z [info] daqstorage.checkRetention processed
+2023-02-01T00:41:35.465Z [info] socket.io client connected
+2023-02-01T01:26:07.417Z [info] daqstorage.checkRetention processed
+2023-02-02T00:35:20.159Z [info] socket.io client connected
+2023-02-02T00:37:34.869Z [info] socket.io client connected
+2023-02-02T01:26:10.300Z [info] daqstorage.checkRetention processed
+2023-02-03T00:42:51.832Z [info] socket.io client connected
+2023-02-03T01:26:13.220Z [info] daqstorage.checkRetention processed
+2023-02-04T01:26:16.073Z [info] daqstorage.checkRetention processed
+2023-02-05T01:26:18.696Z [info] daqstorage.checkRetention processed
+2023-02-06T00:52:34.565Z [info] socket.io client connected
+2023-02-06T01:26:21.205Z [info] daqstorage.checkRetention processed
+2023-02-07T00:44:56.844Z [info] socket.io client connected
+2023-02-07T00:49:10.243Z [info] socket.io client connected
+2023-02-07T01:26:24.132Z [info] daqstorage.checkRetention processed
+2023-02-08T00:39:08.090Z [info] socket.io client connected
+2023-02-08T01:26:27.210Z [info] daqstorage.checkRetention processed
+2023-02-08T08:05:26.047Z [info] socket.io client connected
+2023-02-08T08:05:26.051Z [info] socket.io client connected
+2023-02-09T00:49:42.008Z [info] socket.io client connected
+2023-02-09T01:26:30.095Z [info] daqstorage.checkRetention processed
+2023-02-10T00:55:04.127Z [info] socket.io client connected
+2023-02-10T01:26:33.063Z [info] daqstorage.checkRetention processed
+2023-02-11T01:26:35.911Z [info] daqstorage.checkRetention processed
+2023-02-12T01:26:38.410Z [info] daqstorage.checkRetention processed
+2023-02-13T00:52:42.929Z [info] socket.io client connected
+2023-02-13T01:26:41.023Z [info] daqstorage.checkRetention processed
+2023-02-13T04:21:26.031Z [info] socket.io client connected
+2023-02-14T00:56:26.513Z [info] socket.io client connected
+2023-02-14T01:26:43.969Z [info] daqstorage.checkRetention processed
+2023-02-14T07:03:11.867Z [info] socket.io client connected
+2023-02-15T01:02:22.704Z [info] socket.io client connected
+2023-02-15T01:26:46.890Z [info] daqstorage.checkRetention processed
+2023-02-15T05:31:57.997Z [info] socket.io client connected
+2023-02-16T00:37:23.446Z [info] socket.io client connected
+2023-02-16T01:26:49.858Z [info] daqstorage.checkRetention processed
+2023-02-17T00:39:54.832Z [info] socket.io client connected
+2023-02-17T01:26:52.717Z [info] daqstorage.checkRetention processed
+2023-02-18T01:26:55.596Z [info] daqstorage.checkRetention processed
+2023-02-19T01:26:58.207Z [info] daqstorage.checkRetention processed
+2023-02-20T01:27:00.805Z [info] daqstorage.checkRetention processed
+2023-02-20T09:28:32.215Z [info] socket.io client connected
+2023-02-21T01:27:03.277Z [info] daqstorage.checkRetention processed
+2023-02-21T04:02:56.387Z [info] socket.io client connected
+2023-02-22T01:27:06.100Z [info] daqstorage.checkRetention processed
+2023-02-23T00:51:37.104Z [info] socket.io client connected
+2023-02-23T01:27:08.633Z [info] daqstorage.checkRetention processed
+2023-02-23T05:50:38.434Z [info] socket.io client connected
+2023-02-24T01:09:20.318Z [info] socket.io client connected
+2023-02-24T01:14:37.960Z [info] socket.io client connected
+2023-02-24T01:27:11.334Z [info] daqstorage.checkRetention processed
+2023-02-24T01:39:23.139Z [info] socket.io client connected
+2023-02-24T08:07:53.003Z [info] socket.io client connected
+2023-02-25T01:27:14.050Z [info] daqstorage.checkRetention processed
+2023-02-26T01:27:16.596Z [info] daqstorage.checkRetention processed
+2023-02-27T01:27:19.148Z [info] daqstorage.checkRetention processed
+2023-02-28T00:49:02.972Z [info] socket.io client connected
+2023-02-28T01:27:21.643Z [info] daqstorage.checkRetention processed
+2023-02-28T07:55:17.967Z [info] socket.io client connected
+2023-03-01T00:46:38.599Z [info] socket.io client connected
+2023-03-01T01:27:24.395Z [info] daqstorage.checkRetention processed
+2023-03-01T04:54:55.049Z [info] socket.io client connected
+2023-03-01T09:14:40.600Z [info] socket.io client connected
+2023-03-02T00:40:30.200Z [info] socket.io client connected
+2023-03-02T01:27:27.137Z [info] daqstorage.checkRetention processed
+2023-03-02T03:03:19.949Z [info] socket.io client connected
+2023-03-02T05:05:26.461Z [info] socket.io client connected
+2023-03-03T00:47:05.575Z [info] socket.io client connected
+2023-03-03T00:48:28.949Z [info] socket.io client connected
+2023-03-03T01:27:29.980Z [info] daqstorage.checkRetention processed
+2023-03-04T01:27:32.826Z [info] daqstorage.checkRetention processed
+2023-03-05T01:27:35.339Z [info] daqstorage.checkRetention processed
+2023-03-06T01:07:27.636Z [info] socket.io client connected
+2023-03-06T01:27:37.858Z [info] daqstorage.checkRetention processed
+2023-03-07T01:27:40.417Z [info] daqstorage.checkRetention processed
+2023-03-08T01:27:42.925Z [info] daqstorage.checkRetention processed
+2023-03-09T01:22:40.438Z [info] FUXA V.1.1.9-931
+2023-03-09T01:22:40.543Z [info] daqstorage: init successful!
+2023-03-09T01:22:41.889Z [info] api: init successful!
+2023-03-09T01:22:41.911Z [info] plugin-installed node-opcua 2.78.0
+2023-03-09T01:22:41.913Z [info] plugin-installed node-bacnet 0.2.4
+2023-03-09T01:22:41.914Z [info] plugin-installed node-snap7 1.0.6
+2023-03-09T01:22:41.915Z [info] runtime init plugins successful!
+2023-03-09T01:22:41.925Z [info] usrstorage.connected /usr/src/app/FUXA/server/_appdata/users.fuxap.db database
+2023-03-09T01:22:41.927Z [info] prjstorage.connected-to /usr/src/app/FUXA/server/_appdata/project.fuxap.db database
+2023-03-09T01:22:41.995Z [info] project.prjstorage-init-successful!
+2023-03-09T01:22:41.996Z [info] runtime init project successful!
+2023-03-09T01:22:42.008Z [info] users.usrstorage-init successful!
+2023-03-09T01:22:42.031Z [info] runtime init users successful!
+2023-03-09T01:22:42.033Z [info] FUXA init in  1693ms.
+2023-03-09T01:22:42.128Z [info] daqstorage reset!
+2023-03-09T01:22:42.135Z [info] 'FUXA Server' data loaded (1)
+2023-03-09T01:22:42.137Z [info] 'FUXA Server' created
+2023-03-09T01:22:42.154Z [info] 'mqtt-ctr' data loaded (3)
+2023-03-09T01:22:42.155Z [info] 'mqtt-ctr' created
+2023-03-09T01:22:42.164Z [info] 'mqtt-status' data loaded (4)
+2023-03-09T01:22:42.165Z [info] 'mqtt-status' created
+2023-03-09T01:22:42.173Z [info] 'FUXA Server' start
+2023-03-09T01:22:42.176Z [info] 'mqtt-ctr' start
+2023-03-09T01:22:42.178Z [info] 'mqtt-ctr' try to connect mqtt://192.168.14.15:1883
+2023-03-09T01:22:42.182Z [info] 'mqtt-status' start
+2023-03-09T01:22:42.182Z [info] 'mqtt-status' try to connect mqtt://192.168.14.15:1883
+2023-03-09T01:22:42.185Z [info] alarms check start
+2023-03-09T01:22:42.187Z [info] notificator check start
+2023-03-09T01:22:42.188Z [info] scripts.start-checkstatus
+2023-03-09T01:22:42.190Z [info] jobs check start
+2023-03-09T01:22:42.199Z [info] FUXA started!
+2023-03-09T01:22:42.217Z [info] WebServer is running http://127.0.0.1:1881/
+2023-03-09T01:22:42.219Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230130055327.db' database
+2023-03-09T01:22:42.221Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230309012242.db' database
+2023-03-09T01:22:42.224Z [info] daqstorage.bind-daq-map '_db/daq-map_0.db' database
+2023-03-09T01:22:42.226Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230130055327.db' database
+2023-03-09T01:22:42.228Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230309012242.db' database
+2023-03-09T01:22:42.230Z [info] daqstorage.bind-daq-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-03-09T01:22:42.232Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230130055327.db' database
+2023-03-09T01:22:42.234Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230309012242.db' database
+2023-03-09T01:22:42.237Z [info] daqstorage.bind-daq-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-03-09T01:22:42.430Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230130055327.db'
+2023-03-09T01:22:42.434Z [info] daqstorage.connected-to-map '_db/daq-map_0.db' database
+2023-03-09T01:22:42.437Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230130055327.db'
+2023-03-09T01:22:42.439Z [info] daqstorage.connected-to-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-03-09T01:22:42.441Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230130055327.db'
+2023-03-09T01:22:42.443Z [info] daqstorage.connected-to-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-03-09T01:22:42.445Z [info] daqstorage.connected-to-data '_db/daq-data_d_fe0d0264-0cc44f76_20230309012242.db' database
+2023-03-09T01:22:42.446Z [info] daqstorage.connected-to-data '_db/daq-data_0_20230309012242.db' database
+2023-03-09T01:22:42.447Z [info] daqstorage.connected-to-data '_db/daq-data_d_0971e054-c5f64d26_20230309012242.db' database
+2023-03-09T01:22:42.476Z [info] 'mqtt-ctr' connected!
+2023-03-09T01:22:42.493Z [info] daqstorage.load-map successful! '0'
+2023-03-09T01:22:42.495Z [info] daqstorage.load-map successful! 'd_0971e054-c5f64d26'
+2023-03-09T01:22:42.497Z [info] daqstorage.load-map successful! 'd_fe0d0264-0cc44f76'
+2023-03-09T01:22:42.501Z [info] 'mqtt-status' connected!
+2023-03-09T01:22:42.507Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230130055327.db' database deleted!
+2023-03-09T01:22:42.508Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230130055327.db' database deleted!
+2023-03-09T01:22:42.509Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230130055327.db' database deleted!
+2023-03-09T01:22:43.192Z [info] alarmsstorage.connected-to /usr/src/app/FUXA/server/_appdata/alarms.fuxap.db database.
+2023-03-09T01:22:43.198Z [info] alarms.alarmstorage-init-successful!
+2023-03-09T01:22:57.198Z [info] daqstorage.checkRetention processed
+2023-03-10T01:22:59.888Z [info] daqstorage.checkRetention processed
+2023-03-11T01:23:02.663Z [info] daqstorage.checkRetention processed
+2023-03-12T01:23:05.350Z [info] daqstorage.checkRetention processed
+2023-03-13T01:23:08.018Z [info] daqstorage.checkRetention processed
+2023-03-14T01:23:10.627Z [info] daqstorage.checkRetention processed
+2023-03-15T01:23:13.331Z [info] daqstorage.checkRetention processed
+2023-03-16T01:23:16.061Z [info] daqstorage.checkRetention processed
+2023-03-16T08:40:52.537Z [info] FUXA V.1.1.9-931
+2023-03-16T08:40:52.623Z [info] daqstorage: init successful!
+2023-03-16T08:40:53.646Z [info] api: init successful!
+2023-03-16T08:40:53.668Z [info] plugin-installed node-opcua 2.78.0
+2023-03-16T08:40:53.670Z [info] plugin-installed node-bacnet 0.2.4
+2023-03-16T08:40:53.671Z [info] plugin-installed node-snap7 1.0.6
+2023-03-16T08:40:53.672Z [info] runtime init plugins successful!
+2023-03-16T08:40:53.682Z [info] usrstorage.connected /usr/src/app/FUXA/server/_appdata/users.fuxap.db database
+2023-03-16T08:40:53.687Z [info] prjstorage.connected-to /usr/src/app/FUXA/server/_appdata/project.fuxap.db database
+2023-03-16T08:40:53.735Z [info] project.prjstorage-init-successful!
+2023-03-16T08:40:53.737Z [info] runtime init project successful!
+2023-03-16T08:40:53.743Z [info] users.usrstorage-init successful!
+2023-03-16T08:40:53.745Z [info] runtime init users successful!
+2023-03-16T08:40:53.747Z [info] FUXA init in  1288ms.
+2023-03-16T08:40:53.889Z [info] daqstorage reset!
+2023-03-16T08:40:53.897Z [info] 'FUXA Server' data loaded (1)
+2023-03-16T08:40:53.899Z [info] 'FUXA Server' created
+2023-03-16T08:40:53.915Z [info] 'mqtt-ctr' data loaded (3)
+2023-03-16T08:40:53.917Z [info] 'mqtt-ctr' created
+2023-03-16T08:40:53.926Z [info] 'mqtt-status' data loaded (4)
+2023-03-16T08:40:53.927Z [info] 'mqtt-status' created
+2023-03-16T08:40:53.936Z [info] 'FUXA Server' start
+2023-03-16T08:40:53.939Z [info] 'mqtt-ctr' start
+2023-03-16T08:40:53.942Z [info] 'mqtt-ctr' try to connect mqtt://192.168.14.15:1883
+2023-03-16T08:40:53.946Z [info] 'mqtt-status' start
+2023-03-16T08:40:53.947Z [info] 'mqtt-status' try to connect mqtt://192.168.14.15:1883
+2023-03-16T08:40:53.949Z [info] alarms check start
+2023-03-16T08:40:53.951Z [info] notificator check start
+2023-03-16T08:40:53.952Z [info] scripts.start-checkstatus
+2023-03-16T08:40:53.954Z [info] jobs check start
+2023-03-16T08:40:53.964Z [info] FUXA started!
+2023-03-16T08:40:53.983Z [info] WebServer is running http://127.0.0.1:1881/
+2023-03-16T08:40:53.985Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230309012242.db' database
+2023-03-16T08:40:53.987Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230316084053.db' database
+2023-03-16T08:40:53.990Z [info] daqstorage.bind-daq-map '_db/daq-map_0.db' database
+2023-03-16T08:40:53.992Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230309012242.db' database
+2023-03-16T08:40:53.994Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230316084053.db' database
+2023-03-16T08:40:53.996Z [info] daqstorage.bind-daq-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-03-16T08:40:53.998Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230309012242.db' database
+2023-03-16T08:40:53.999Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230316084053.db' database
+2023-03-16T08:40:54.001Z [info] daqstorage.bind-daq-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-03-16T08:40:54.191Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230309012242.db'
+2023-03-16T08:40:54.195Z [info] daqstorage.connected-to-map '_db/daq-map_0.db' database
+2023-03-16T08:40:54.198Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230309012242.db'
+2023-03-16T08:40:54.200Z [info] daqstorage.connected-to-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-03-16T08:40:54.202Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230309012242.db'
+2023-03-16T08:40:54.204Z [info] daqstorage.connected-to-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-03-16T08:40:54.206Z [info] daqstorage.connected-to-data '_db/daq-data_0_20230316084053.db' database
+2023-03-16T08:40:54.207Z [info] daqstorage.connected-to-data '_db/daq-data_d_fe0d0264-0cc44f76_20230316084053.db' database
+2023-03-16T08:40:54.208Z [info] daqstorage.connected-to-data '_db/daq-data_d_0971e054-c5f64d26_20230316084053.db' database
+2023-03-16T08:40:54.244Z [info] 'mqtt-ctr' connected!
+2023-03-16T08:40:54.265Z [info] daqstorage.load-map successful! '0'
+2023-03-16T08:40:54.267Z [info] daqstorage.load-map successful! 'd_0971e054-c5f64d26'
+2023-03-16T08:40:54.269Z [info] daqstorage.load-map successful! 'd_fe0d0264-0cc44f76'
+2023-03-16T08:40:54.274Z [info] 'mqtt-status' connected!
+2023-03-16T08:40:54.280Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230309012242.db' database deleted!
+2023-03-16T08:40:54.281Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230309012242.db' database deleted!
+2023-03-16T08:40:54.283Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230309012242.db' database deleted!
+2023-03-16T08:40:54.954Z [info] alarmsstorage.connected-to /usr/src/app/FUXA/server/_appdata/alarms.fuxap.db database.
+2023-03-16T08:40:54.961Z [info] alarms.alarmstorage-init-successful!
+2023-03-16T08:51:24.801Z [info] FUXA V.1.1.9-931
+2023-03-16T08:51:24.888Z [info] daqstorage: init successful!
+2023-03-16T08:51:25.931Z [info] api: init successful!
+2023-03-16T08:51:25.955Z [info] plugin-installed node-opcua 2.78.0
+2023-03-16T08:51:25.957Z [info] plugin-installed node-bacnet 0.2.4
+2023-03-16T08:51:25.958Z [info] plugin-installed node-snap7 1.0.6
+2023-03-16T08:51:25.959Z [info] runtime init plugins successful!
+2023-03-16T08:51:25.969Z [info] usrstorage.connected /usr/src/app/FUXA/server/_appdata/users.fuxap.db database
+2023-03-16T08:51:25.972Z [info] prjstorage.connected-to /usr/src/app/FUXA/server/_appdata/project.fuxap.db database
+2023-03-16T08:51:26.023Z [info] project.prjstorage-init-successful!
+2023-03-16T08:51:26.024Z [info] runtime init project successful!
+2023-03-16T08:51:26.035Z [info] users.usrstorage-init successful!
+2023-03-16T08:51:26.036Z [info] runtime init users successful!
+2023-03-16T08:51:26.043Z [info] FUXA init in  1318ms.
+2023-03-16T08:51:26.154Z [info] daqstorage reset!
+2023-03-16T08:51:26.161Z [info] 'FUXA Server' data loaded (1)
+2023-03-16T08:51:26.163Z [info] 'FUXA Server' created
+2023-03-16T08:51:26.179Z [info] 'mqtt-ctr' data loaded (3)
+2023-03-16T08:51:26.181Z [info] 'mqtt-ctr' created
+2023-03-16T08:51:26.189Z [info] 'mqtt-status' data loaded (4)
+2023-03-16T08:51:26.190Z [info] 'mqtt-status' created
+2023-03-16T08:51:26.198Z [info] 'FUXA Server' start
+2023-03-16T08:51:26.200Z [info] 'mqtt-ctr' start
+2023-03-16T08:51:26.203Z [info] 'mqtt-ctr' try to connect mqtt://192.168.14.15:1883
+2023-03-16T08:51:26.206Z [info] 'mqtt-status' start
+2023-03-16T08:51:26.207Z [info] 'mqtt-status' try to connect mqtt://192.168.14.15:1883
+2023-03-16T08:51:26.210Z [info] alarms check start
+2023-03-16T08:51:26.211Z [info] notificator check start
+2023-03-16T08:51:26.212Z [info] scripts.start-checkstatus
+2023-03-16T08:51:26.213Z [info] jobs check start
+2023-03-16T08:51:26.221Z [info] FUXA started!
+2023-03-16T08:51:26.239Z [info] WebServer is running http://127.0.0.1:1881/
+2023-03-16T08:51:26.242Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230316084053.db' database
+2023-03-16T08:51:26.244Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230316085126.db' database
+2023-03-16T08:51:26.246Z [info] daqstorage.bind-daq-map '_db/daq-map_0.db' database
+2023-03-16T08:51:26.248Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230316084053.db' database
+2023-03-16T08:51:26.250Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230316085126.db' database
+2023-03-16T08:51:26.252Z [info] daqstorage.bind-daq-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-03-16T08:51:26.254Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230316084053.db' database
+2023-03-16T08:51:26.256Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230316085126.db' database
+2023-03-16T08:51:26.258Z [info] daqstorage.bind-daq-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-03-16T08:51:26.445Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230316084053.db'
+2023-03-16T08:51:26.451Z [info] daqstorage.connected-to-map '_db/daq-map_0.db' database
+2023-03-16T08:51:26.453Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230316084053.db'
+2023-03-16T08:51:26.455Z [info] daqstorage.connected-to-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-03-16T08:51:26.457Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230316084053.db'
+2023-03-16T08:51:26.459Z [info] daqstorage.connected-to-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-03-16T08:51:26.461Z [info] daqstorage.connected-to-data '_db/daq-data_0_20230316085126.db' database
+2023-03-16T08:51:26.462Z [info] daqstorage.connected-to-data '_db/daq-data_d_0971e054-c5f64d26_20230316085126.db' database
+2023-03-16T08:51:26.463Z [info] daqstorage.connected-to-data '_db/daq-data_d_fe0d0264-0cc44f76_20230316085126.db' database
+2023-03-16T08:51:26.501Z [info] 'mqtt-ctr' connected!
+2023-03-16T08:51:26.523Z [info] 'mqtt-status' connected!
+2023-03-16T08:51:26.531Z [info] daqstorage.load-map successful! '0'
+2023-03-16T08:51:26.532Z [info] daqstorage.load-map successful! 'd_0971e054-c5f64d26'
+2023-03-16T08:51:26.534Z [info] daqstorage.load-map successful! 'd_fe0d0264-0cc44f76'
+2023-03-16T08:51:26.545Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230316084053.db' database deleted!
+2023-03-16T08:51:26.546Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230316084053.db' database deleted!
+2023-03-16T08:51:26.548Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230316084053.db' database deleted!
+2023-03-16T08:51:27.216Z [info] alarmsstorage.connected-to /usr/src/app/FUXA/server/_appdata/alarms.fuxap.db database.
+2023-03-16T08:51:27.225Z [info] alarms.alarmstorage-init-successful!
+2023-03-16T08:57:43.493Z [info] FUXA V.1.1.9-931
+2023-03-16T08:57:43.589Z [info] daqstorage: init successful!
+2023-03-16T08:57:44.634Z [info] api: init successful!
+2023-03-16T08:57:44.660Z [info] plugin-installed node-opcua 2.78.0
+2023-03-16T08:57:44.662Z [info] plugin-installed node-bacnet 0.2.4
+2023-03-16T08:57:44.663Z [info] plugin-installed node-snap7 1.0.6
+2023-03-16T08:57:44.664Z [info] runtime init plugins successful!
+2023-03-16T08:57:44.679Z [info] usrstorage.connected /usr/src/app/FUXA/server/_appdata/users.fuxap.db database
+2023-03-16T08:57:44.682Z [info] prjstorage.connected-to /usr/src/app/FUXA/server/_appdata/project.fuxap.db database
+2023-03-16T08:57:44.710Z [info] project.prjstorage-init-successful!
+2023-03-16T08:57:44.712Z [info] runtime init project successful!
+2023-03-16T08:57:44.728Z [info] users.usrstorage-init successful!
+2023-03-16T08:57:44.730Z [info] runtime init users successful!
+2023-03-16T08:57:44.732Z [info] FUXA init in  1346ms.
+2023-03-16T08:57:44.861Z [info] daqstorage reset!
+2023-03-16T08:57:44.868Z [info] 'FUXA Server' data loaded (1)
+2023-03-16T08:57:44.869Z [info] 'FUXA Server' created
+2023-03-16T08:57:44.884Z [info] 'mqtt-ctr' data loaded (3)
+2023-03-16T08:57:44.885Z [info] 'mqtt-ctr' created
+2023-03-16T08:57:44.892Z [info] 'mqtt-status' data loaded (4)
+2023-03-16T08:57:44.893Z [info] 'mqtt-status' created
+2023-03-16T08:57:44.899Z [info] 'FUXA Server' start
+2023-03-16T08:57:44.902Z [info] 'mqtt-ctr' start
+2023-03-16T08:57:44.904Z [info] 'mqtt-ctr' try to connect mqtt://192.168.14.15:1883
+2023-03-16T08:57:44.907Z [info] 'mqtt-status' start
+2023-03-16T08:57:44.908Z [info] 'mqtt-status' try to connect mqtt://192.168.14.15:1883
+2023-03-16T08:57:44.911Z [info] alarms check start
+2023-03-16T08:57:44.912Z [info] notificator check start
+2023-03-16T08:57:44.913Z [info] scripts.start-checkstatus
+2023-03-16T08:57:44.915Z [info] jobs check start
+2023-03-16T08:57:44.923Z [info] FUXA started!
+2023-03-16T08:57:44.941Z [info] WebServer is running http://127.0.0.1:1881/
+2023-03-16T08:57:44.944Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230316085126.db' database
+2023-03-16T08:57:44.945Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230316085744.db' database
+2023-03-16T08:57:44.947Z [info] daqstorage.bind-daq-map '_db/daq-map_0.db' database
+2023-03-16T08:57:44.948Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230316085126.db' database
+2023-03-16T08:57:44.949Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230316085744.db' database
+2023-03-16T08:57:44.950Z [info] daqstorage.bind-daq-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-03-16T08:57:44.951Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230316085126.db' database
+2023-03-16T08:57:44.952Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230316085744.db' database
+2023-03-16T08:57:44.953Z [info] daqstorage.bind-daq-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-03-16T08:57:45.143Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230316085126.db'
+2023-03-16T08:57:45.148Z [info] daqstorage.connected-to-map '_db/daq-map_0.db' database
+2023-03-16T08:57:45.151Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230316085126.db'
+2023-03-16T08:57:45.153Z [info] daqstorage.connected-to-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-03-16T08:57:45.155Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230316085126.db'
+2023-03-16T08:57:45.157Z [info] daqstorage.connected-to-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-03-16T08:57:45.159Z [info] daqstorage.connected-to-data '_db/daq-data_d_0971e054-c5f64d26_20230316085744.db' database
+2023-03-16T08:57:45.160Z [info] daqstorage.connected-to-data '_db/daq-data_d_fe0d0264-0cc44f76_20230316085744.db' database
+2023-03-16T08:57:45.161Z [info] daqstorage.connected-to-data '_db/daq-data_0_20230316085744.db' database
+2023-03-16T08:57:45.202Z [info] 'mqtt-ctr' connected!
+2023-03-16T08:57:45.226Z [info] daqstorage.load-map successful! '0'
+2023-03-16T08:57:45.228Z [info] daqstorage.load-map successful! 'd_0971e054-c5f64d26'
+2023-03-16T08:57:45.230Z [info] daqstorage.load-map successful! 'd_fe0d0264-0cc44f76'
+2023-03-16T08:57:45.235Z [info] 'mqtt-status' connected!
+2023-03-16T08:57:45.241Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230316085126.db' database deleted!
+2023-03-16T08:57:45.243Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230316085126.db' database deleted!
+2023-03-16T08:57:45.244Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230316085126.db' database deleted!
+2023-03-16T08:57:45.918Z [info] alarmsstorage.connected-to /usr/src/app/FUXA/server/_appdata/alarms.fuxap.db database.
+2023-03-16T08:57:45.929Z [info] alarms.alarmstorage-init-successful!
+2023-03-16T08:59:36.130Z [info] FUXA V.1.1.9-931
+2023-03-16T08:59:36.229Z [info] daqstorage: init successful!
+2023-03-16T08:59:37.311Z [info] api: init successful!
+2023-03-16T08:59:37.334Z [info] plugin-installed node-opcua 2.78.0
+2023-03-16T08:59:37.336Z [info] plugin-installed node-bacnet 0.2.4
+2023-03-16T08:59:37.337Z [info] plugin-installed node-snap7 1.0.6
+2023-03-16T08:59:37.338Z [info] runtime init plugins successful!
+2023-03-16T08:59:37.348Z [info] usrstorage.connected /usr/src/app/FUXA/server/_appdata/users.fuxap.db database
+2023-03-16T08:59:37.351Z [info] prjstorage.connected-to /usr/src/app/FUXA/server/_appdata/project.fuxap.db database
+2023-03-16T08:59:37.395Z [info] project.prjstorage-init-successful!
+2023-03-16T08:59:37.397Z [info] runtime init project successful!
+2023-03-16T08:59:37.402Z [info] users.usrstorage-init successful!
+2023-03-16T08:59:37.403Z [info] runtime init users successful!
+2023-03-16T08:59:37.406Z [info] FUXA init in  1375ms.
+2023-03-16T08:59:37.545Z [info] daqstorage reset!
+2023-03-16T08:59:37.553Z [info] 'FUXA Server' data loaded (1)
+2023-03-16T08:59:37.554Z [info] 'FUXA Server' created
+2023-03-16T08:59:37.570Z [info] 'mqtt-ctr' data loaded (3)
+2023-03-16T08:59:37.572Z [info] 'mqtt-ctr' created
+2023-03-16T08:59:37.579Z [info] 'mqtt-status' data loaded (4)
+2023-03-16T08:59:37.581Z [info] 'mqtt-status' created
+2023-03-16T08:59:37.589Z [info] 'FUXA Server' start
+2023-03-16T08:59:37.592Z [info] 'mqtt-ctr' start
+2023-03-16T08:59:37.595Z [info] 'mqtt-ctr' try to connect mqtt://192.168.14.15:1883
+2023-03-16T08:59:37.599Z [info] 'mqtt-status' start
+2023-03-16T08:59:37.600Z [info] 'mqtt-status' try to connect mqtt://192.168.14.15:1883
+2023-03-16T08:59:37.602Z [info] alarms check start
+2023-03-16T08:59:37.604Z [info] notificator check start
+2023-03-16T08:59:37.606Z [info] scripts.start-checkstatus
+2023-03-16T08:59:37.607Z [info] jobs check start
+2023-03-16T08:59:37.617Z [info] FUXA started!
+2023-03-16T08:59:37.637Z [info] WebServer is running http://127.0.0.1:1881/
+2023-03-16T08:59:37.641Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230316085744.db' database
+2023-03-16T08:59:37.642Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230316085937.db' database
+2023-03-16T08:59:37.643Z [info] daqstorage.bind-daq-map '_db/daq-map_0.db' database
+2023-03-16T08:59:37.645Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230316085744.db' database
+2023-03-16T08:59:37.646Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230316085937.db' database
+2023-03-16T08:59:37.647Z [info] daqstorage.bind-daq-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-03-16T08:59:37.648Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230316085744.db' database
+2023-03-16T08:59:37.649Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230316085937.db' database
+2023-03-16T08:59:37.650Z [info] daqstorage.bind-daq-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-03-16T08:59:37.830Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230316085744.db'
+2023-03-16T08:59:37.835Z [info] daqstorage.connected-to-map '_db/daq-map_0.db' database
+2023-03-16T08:59:37.837Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230316085744.db'
+2023-03-16T08:59:37.839Z [info] daqstorage.connected-to-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-03-16T08:59:37.841Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230316085744.db'
+2023-03-16T08:59:37.843Z [info] daqstorage.connected-to-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-03-16T08:59:37.845Z [info] daqstorage.connected-to-data '_db/daq-data_d_fe0d0264-0cc44f76_20230316085937.db' database
+2023-03-16T08:59:37.846Z [info] daqstorage.connected-to-data '_db/daq-data_0_20230316085937.db' database
+2023-03-16T08:59:37.848Z [info] daqstorage.connected-to-data '_db/daq-data_d_0971e054-c5f64d26_20230316085937.db' database
+2023-03-16T08:59:37.885Z [info] 'mqtt-ctr' connected!
+2023-03-16T08:59:37.908Z [info] 'mqtt-status' connected!
+2023-03-16T08:59:37.914Z [info] daqstorage.load-map successful! '0'
+2023-03-16T08:59:37.916Z [info] daqstorage.load-map successful! 'd_0971e054-c5f64d26'
+2023-03-16T08:59:37.918Z [info] daqstorage.load-map successful! 'd_fe0d0264-0cc44f76'
+2023-03-16T08:59:37.920Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230316085744.db' database deleted!
+2023-03-16T08:59:37.928Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230316085744.db' database deleted!
+2023-03-16T08:59:37.930Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230316085744.db' database deleted!
+2023-03-16T08:59:38.608Z [info] alarmsstorage.connected-to /usr/src/app/FUXA/server/_appdata/alarms.fuxap.db database.
+2023-03-16T08:59:38.615Z [info] alarms.alarmstorage-init-successful!
+2023-03-16T09:04:30.084Z [info] FUXA V.1.1.9-931
+2023-03-16T09:04:30.173Z [info] daqstorage: init successful!
+2023-03-16T09:04:31.191Z [info] api: init successful!
+2023-03-16T09:04:31.212Z [info] plugin-installed node-opcua 2.78.0
+2023-03-16T09:04:31.214Z [info] plugin-installed node-bacnet 0.2.4
+2023-03-16T09:04:31.215Z [info] plugin-installed node-snap7 1.0.6
+2023-03-16T09:04:31.216Z [info] runtime init plugins successful!
+2023-03-16T09:04:31.228Z [info] usrstorage.connected /usr/src/app/FUXA/server/_appdata/users.fuxap.db database
+2023-03-16T09:04:31.230Z [info] prjstorage.connected-to /usr/src/app/FUXA/server/_appdata/project.fuxap.db database
+2023-03-16T09:04:31.280Z [info] project.prjstorage-init-successful!
+2023-03-16T09:04:31.282Z [info] runtime init project successful!
+2023-03-16T09:04:31.297Z [info] users.usrstorage-init successful!
+2023-03-16T09:04:31.299Z [info] runtime init users successful!
+2023-03-16T09:04:31.301Z [info] FUXA init in  1306ms.
+2023-03-16T09:04:31.407Z [info] daqstorage reset!
+2023-03-16T09:04:31.415Z [info] 'FUXA Server' data loaded (1)
+2023-03-16T09:04:31.416Z [info] 'FUXA Server' created
+2023-03-16T09:04:31.431Z [info] 'mqtt-ctr' data loaded (3)
+2023-03-16T09:04:31.432Z [info] 'mqtt-ctr' created
+2023-03-16T09:04:31.440Z [info] 'mqtt-status' data loaded (4)
+2023-03-16T09:04:31.441Z [info] 'mqtt-status' created
+2023-03-16T09:04:31.449Z [info] 'FUXA Server' start
+2023-03-16T09:04:31.452Z [info] 'mqtt-ctr' start
+2023-03-16T09:04:31.455Z [info] 'mqtt-ctr' try to connect mqtt://192.168.14.15:1883
+2023-03-16T09:04:31.458Z [info] 'mqtt-status' start
+2023-03-16T09:04:31.459Z [info] 'mqtt-status' try to connect mqtt://192.168.14.15:1883
+2023-03-16T09:04:31.461Z [info] alarms check start
+2023-03-16T09:04:31.462Z [info] notificator check start
+2023-03-16T09:04:31.464Z [info] scripts.start-checkstatus
+2023-03-16T09:04:31.465Z [info] jobs check start
+2023-03-16T09:04:31.473Z [info] FUXA started!
+2023-03-16T09:04:31.489Z [info] WebServer is running http://127.0.0.1:1881/
+2023-03-16T09:04:31.492Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230316085937.db' database
+2023-03-16T09:04:31.493Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230316090431.db' database
+2023-03-16T09:04:31.495Z [info] daqstorage.bind-daq-map '_db/daq-map_0.db' database
+2023-03-16T09:04:31.496Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230316085937.db' database
+2023-03-16T09:04:31.498Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230316090431.db' database
+2023-03-16T09:04:31.499Z [info] daqstorage.bind-daq-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-03-16T09:04:31.503Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230316085937.db' database
+2023-03-16T09:04:31.505Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230316090431.db' database
+2023-03-16T09:04:31.506Z [info] daqstorage.bind-daq-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-03-16T09:04:31.687Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230316085937.db'
+2023-03-16T09:04:31.692Z [info] daqstorage.connected-to-map '_db/daq-map_0.db' database
+2023-03-16T09:04:31.694Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230316085937.db'
+2023-03-16T09:04:31.696Z [info] daqstorage.connected-to-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-03-16T09:04:31.698Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230316085937.db'
+2023-03-16T09:04:31.700Z [info] daqstorage.connected-to-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-03-16T09:04:31.702Z [info] daqstorage.connected-to-data '_db/daq-data_d_fe0d0264-0cc44f76_20230316090431.db' database
+2023-03-16T09:04:31.703Z [info] daqstorage.connected-to-data '_db/daq-data_d_0971e054-c5f64d26_20230316090431.db' database
+2023-03-16T09:04:31.704Z [info] daqstorage.connected-to-data '_db/daq-data_0_20230316090431.db' database
+2023-03-16T09:04:31.741Z [info] 'mqtt-ctr' connected!
+2023-03-16T09:04:31.762Z [info] 'mqtt-status' connected!
+2023-03-16T09:04:31.768Z [info] daqstorage.load-map successful! '0'
+2023-03-16T09:04:31.770Z [info] daqstorage.load-map successful! 'd_0971e054-c5f64d26'
+2023-03-16T09:04:31.772Z [info] daqstorage.load-map successful! 'd_fe0d0264-0cc44f76'
+2023-03-16T09:04:31.774Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230316085937.db' database deleted!
+2023-03-16T09:04:31.784Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230316085937.db' database deleted!
+2023-03-16T09:04:31.785Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230316085937.db' database deleted!
+2023-03-16T09:04:32.466Z [info] alarmsstorage.connected-to /usr/src/app/FUXA/server/_appdata/alarms.fuxap.db database.
+2023-03-16T09:04:32.474Z [info] alarms.alarmstorage-init-successful!
+2023-03-16T09:05:52.885Z [info] FUXA V.1.1.9-931
+2023-03-16T09:05:52.977Z [info] daqstorage: init successful!
+2023-03-16T09:05:54.035Z [info] api: init successful!
+2023-03-16T09:05:54.057Z [info] plugin-installed node-opcua 2.78.0
+2023-03-16T09:05:54.059Z [info] plugin-installed node-bacnet 0.2.4
+2023-03-16T09:05:54.060Z [info] plugin-installed node-snap7 1.0.6
+2023-03-16T09:05:54.061Z [info] runtime init plugins successful!
+2023-03-16T09:05:54.071Z [info] usrstorage.connected /usr/src/app/FUXA/server/_appdata/users.fuxap.db database
+2023-03-16T09:05:54.074Z [info] prjstorage.connected-to /usr/src/app/FUXA/server/_appdata/project.fuxap.db database
+2023-03-16T09:05:54.129Z [info] project.prjstorage-init-successful!
+2023-03-16T09:05:54.130Z [info] runtime init project successful!
+2023-03-16T09:05:54.145Z [info] users.usrstorage-init successful!
+2023-03-16T09:05:54.146Z [info] runtime init users successful!
+2023-03-16T09:05:54.150Z [info] FUXA init in  1355ms.
+2023-03-16T09:05:54.275Z [info] daqstorage reset!
+2023-03-16T09:05:54.282Z [info] 'FUXA Server' data loaded (1)
+2023-03-16T09:05:54.284Z [info] 'FUXA Server' created
+2023-03-16T09:05:54.300Z [info] 'mqtt-ctr' data loaded (3)
+2023-03-16T09:05:54.302Z [info] 'mqtt-ctr' created
+2023-03-16T09:05:54.309Z [info] 'mqtt-status' data loaded (4)
+2023-03-16T09:05:54.311Z [info] 'mqtt-status' created
+2023-03-16T09:05:54.318Z [info] 'FUXA Server' start
+2023-03-16T09:05:54.322Z [info] 'mqtt-ctr' start
+2023-03-16T09:05:54.324Z [info] 'mqtt-ctr' try to connect mqtt://192.168.14.15:1883
+2023-03-16T09:05:54.328Z [info] 'mqtt-status' start
+2023-03-16T09:05:54.329Z [info] 'mqtt-status' try to connect mqtt://192.168.14.15:1883
+2023-03-16T09:05:54.332Z [info] alarms check start
+2023-03-16T09:05:54.333Z [info] notificator check start
+2023-03-16T09:05:54.335Z [info] scripts.start-checkstatus
+2023-03-16T09:05:54.336Z [info] jobs check start
+2023-03-16T09:05:54.346Z [info] FUXA started!
+2023-03-16T09:05:54.366Z [info] WebServer is running http://127.0.0.1:1881/
+2023-03-16T09:05:54.369Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230316090431.db' database
+2023-03-16T09:05:54.370Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230316090554.db' database
+2023-03-16T09:05:54.371Z [info] daqstorage.bind-daq-map '_db/daq-map_0.db' database
+2023-03-16T09:05:54.373Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230316090431.db' database
+2023-03-16T09:05:54.375Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230316090554.db' database
+2023-03-16T09:05:54.376Z [info] daqstorage.bind-daq-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-03-16T09:05:54.377Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230316090431.db' database
+2023-03-16T09:05:54.379Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230316090554.db' database
+2023-03-16T09:05:54.380Z [info] daqstorage.bind-daq-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-03-16T09:05:54.563Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230316090431.db'
+2023-03-16T09:05:54.567Z [info] daqstorage.connected-to-map '_db/daq-map_0.db' database
+2023-03-16T09:05:54.569Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230316090431.db'
+2023-03-16T09:05:54.570Z [info] daqstorage.connected-to-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-03-16T09:05:54.572Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230316090431.db'
+2023-03-16T09:05:54.574Z [info] daqstorage.connected-to-data '_db/daq-data_d_0971e054-c5f64d26_20230316090554.db' database
+2023-03-16T09:05:54.575Z [info] daqstorage.connected-to-data '_db/daq-data_d_fe0d0264-0cc44f76_20230316090554.db' database
+2023-03-16T09:05:54.576Z [info] daqstorage.connected-to-data '_db/daq-data_0_20230316090554.db' database
+2023-03-16T09:05:54.581Z [info] daqstorage.connected-to-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-03-16T09:05:54.586Z [info] daqstorage.load-map successful! '0'
+2023-03-16T09:05:54.588Z [info] daqstorage.load-map successful! 'd_0971e054-c5f64d26'
+2023-03-16T09:05:54.615Z [info] 'mqtt-ctr' connected!
+2023-03-16T09:05:54.630Z [info] daqstorage.load-map successful! 'd_fe0d0264-0cc44f76'
+2023-03-16T09:05:54.633Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230316090431.db' database deleted!
+2023-03-16T09:05:54.638Z [info] 'mqtt-status' connected!
+2023-03-16T09:05:54.642Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230316090431.db' database deleted!
+2023-03-16T09:05:54.644Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230316090431.db' database deleted!
+2023-03-16T09:05:55.336Z [info] alarmsstorage.connected-to /usr/src/app/FUXA/server/_appdata/alarms.fuxap.db database.
+2023-03-16T09:05:55.343Z [info] alarms.alarmstorage-init-successful!
+2023-03-17T01:06:11.078Z [info] daqstorage.checkRetention processed
+2023-03-17T01:59:13.294Z [info] FUXA V.1.1.9-931
+2023-03-17T01:59:13.382Z [info] daqstorage: init successful!
+2023-03-17T01:59:14.424Z [info] api: init successful!
+2023-03-17T01:59:14.448Z [info] plugin-installed node-opcua 2.78.0
+2023-03-17T01:59:14.450Z [info] plugin-installed node-bacnet 0.2.4
+2023-03-17T01:59:14.451Z [info] plugin-installed node-snap7 1.0.6
+2023-03-17T01:59:14.452Z [info] runtime init plugins successful!
+2023-03-17T01:59:14.462Z [info] usrstorage.connected /usr/src/app/FUXA/server/_appdata/users.fuxap.db database
+2023-03-17T01:59:14.466Z [info] prjstorage.connected-to /usr/src/app/FUXA/server/_appdata/project.fuxap.db database
+2023-03-17T01:59:14.509Z [info] project.prjstorage-init-successful!
+2023-03-17T01:59:14.510Z [info] runtime init project successful!
+2023-03-17T01:59:14.536Z [info] users.usrstorage-init successful!
+2023-03-17T01:59:14.537Z [info] runtime init users successful!
+2023-03-17T01:59:14.540Z [info] FUXA init in  1342ms.
+2023-03-17T01:59:14.646Z [info] daqstorage reset!
+2023-03-17T01:59:14.653Z [info] 'FUXA Server' data loaded (1)
+2023-03-17T01:59:14.654Z [info] 'FUXA Server' created
+2023-03-17T01:59:14.670Z [info] 'mqtt-ctr' data loaded (3)
+2023-03-17T01:59:14.671Z [info] 'mqtt-ctr' created
+2023-03-17T01:59:14.679Z [info] 'mqtt-status' data loaded (4)
+2023-03-17T01:59:14.680Z [info] 'mqtt-status' created
+2023-03-17T01:59:14.687Z [info] 'FUXA Server' start
+2023-03-17T01:59:14.690Z [info] 'mqtt-ctr' start
+2023-03-17T01:59:14.692Z [info] 'mqtt-ctr' try to connect mqtt://192.168.14.15:1883
+2023-03-17T01:59:14.695Z [info] 'mqtt-status' start
+2023-03-17T01:59:14.696Z [info] 'mqtt-status' try to connect mqtt://192.168.14.15:1883
+2023-03-17T01:59:14.699Z [info] alarms check start
+2023-03-17T01:59:14.700Z [info] notificator check start
+2023-03-17T01:59:14.701Z [info] scripts.start-checkstatus
+2023-03-17T01:59:14.703Z [info] jobs check start
+2023-03-17T01:59:14.713Z [info] FUXA started!
+2023-03-17T01:59:14.731Z [info] WebServer is running http://127.0.0.1:1881/
+2023-03-17T01:59:14.734Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230316090554.db' database
+2023-03-17T01:59:14.736Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230317015914.db' database
+2023-03-17T01:59:14.738Z [info] daqstorage.bind-daq-map '_db/daq-map_0.db' database
+2023-03-17T01:59:14.740Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230316090554.db' database
+2023-03-17T01:59:14.741Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230317015914.db' database
+2023-03-17T01:59:14.743Z [info] daqstorage.bind-daq-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-03-17T01:59:14.744Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230316090554.db' database
+2023-03-17T01:59:14.746Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230317015914.db' database
+2023-03-17T01:59:14.748Z [info] daqstorage.bind-daq-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-03-17T01:59:14.916Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230316090554.db'
+2023-03-17T01:59:14.921Z [info] daqstorage.connected-to-map '_db/daq-map_0.db' database
+2023-03-17T01:59:14.924Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230316090554.db'
+2023-03-17T01:59:14.926Z [info] daqstorage.connected-to-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-03-17T01:59:14.927Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230316090554.db'
+2023-03-17T01:59:14.929Z [info] daqstorage.connected-to-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-03-17T01:59:14.931Z [info] daqstorage.connected-to-data '_db/daq-data_d_0971e054-c5f64d26_20230317015914.db' database
+2023-03-17T01:59:14.932Z [info] daqstorage.connected-to-data '_db/daq-data_0_20230317015914.db' database
+2023-03-17T01:59:14.933Z [info] daqstorage.connected-to-data '_db/daq-data_d_fe0d0264-0cc44f76_20230317015914.db' database
+2023-03-17T01:59:14.942Z [info] daqstorage.load-map successful! '0'
+2023-03-17T01:59:14.945Z [info] daqstorage.load-map successful! 'd_0971e054-c5f64d26'
+2023-03-17T01:59:14.947Z [info] daqstorage.load-map successful! 'd_fe0d0264-0cc44f76'
+2023-03-17T01:59:14.950Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230316090554.db' database deleted!
+2023-03-17T01:59:14.951Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230316090554.db' database deleted!
+2023-03-17T01:59:14.953Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230316090554.db' database deleted!
+2023-03-17T01:59:14.978Z [info] 'mqtt-status' connected!
+2023-03-17T01:59:14.997Z [info] 'mqtt-ctr' connected!
+2023-03-17T01:59:15.704Z [info] alarmsstorage.connected-to /usr/src/app/FUXA/server/_appdata/alarms.fuxap.db database.
+2023-03-17T01:59:15.711Z [info] alarms.alarmstorage-init-successful!
+2023-03-17T01:59:29.709Z [info] daqstorage.checkRetention processed
+2023-03-18T01:29:32.335Z [info] daqstorage.checkRetention processed
+2023-03-19T01:29:35.108Z [info] daqstorage.checkRetention processed
+2023-03-20T01:29:37.760Z [info] daqstorage.checkRetention processed
+2023-03-21T01:29:40.504Z [info] daqstorage.checkRetention processed
+2023-03-22T01:29:43.277Z [info] daqstorage.checkRetention processed
+2023-03-23T01:29:45.985Z [info] daqstorage.checkRetention processed
+2023-03-24T01:29:48.664Z [info] daqstorage.checkRetention processed
+2023-03-25T01:29:51.378Z [info] daqstorage.checkRetention processed
+2023-03-26T01:29:54.117Z [info] daqstorage.checkRetention processed
+2023-03-27T01:29:56.918Z [info] daqstorage.checkRetention processed
+2023-03-28T01:29:59.647Z [info] daqstorage.checkRetention processed
+2023-03-29T01:00:02.257Z [info] daqstorage.checkRetention processed
+2023-03-30T01:00:04.943Z [info] daqstorage.checkRetention processed
+2023-03-31T01:00:07.775Z [info] daqstorage.checkRetention processed
+2023-04-01T01:00:10.794Z [info] daqstorage.checkRetention processed
+2023-04-02T01:00:13.811Z [info] daqstorage.checkRetention processed
+2023-04-03T01:00:16.889Z [info] daqstorage.checkRetention processed
+2023-04-04T01:00:20.046Z [info] daqstorage.checkRetention processed
+2023-04-05T01:00:23.145Z [info] daqstorage.checkRetention processed
+2023-04-06T01:00:26.194Z [info] daqstorage.checkRetention processed
+2023-04-07T01:00:29.284Z [info] daqstorage.checkRetention processed
+2023-04-08T01:00:32.363Z [info] daqstorage.checkRetention processed
+2023-04-09T01:00:35.264Z [info] daqstorage.checkRetention processed
+2023-04-10T01:00:38.190Z [info] daqstorage.checkRetention processed
+2023-04-11T01:00:41.152Z [info] daqstorage.checkRetention processed
+2023-04-12T01:00:44.203Z [info] daqstorage.checkRetention processed
+2023-04-13T01:00:47.253Z [info] daqstorage.checkRetention processed
+2023-04-14T01:00:50.248Z [info] daqstorage.checkRetention processed
+2023-05-08T02:00:20.792Z [info] FUXA V.1.1.9-931
+2023-05-08T02:00:20.892Z [info] daqstorage: init successful!
+2023-05-08T02:00:22.214Z [info] api: init successful!
+2023-05-08T02:00:22.241Z [info] plugin-installed node-opcua 2.78.0
+2023-05-08T02:00:22.243Z [info] plugin-installed node-bacnet 0.2.4
+2023-05-08T02:00:22.244Z [info] plugin-installed node-snap7 1.0.6
+2023-05-08T02:00:22.246Z [info] runtime init plugins successful!
+2023-05-08T02:00:22.258Z [info] usrstorage.connected /usr/src/app/FUXA/server/_appdata/users.fuxap.db database
+2023-05-08T02:00:22.260Z [info] prjstorage.connected-to /usr/src/app/FUXA/server/_appdata/project.fuxap.db database
+2023-05-08T02:00:22.306Z [info] project.prjstorage-init-successful!
+2023-05-08T02:00:22.315Z [info] runtime init project successful!
+2023-05-08T02:00:22.328Z [info] users.usrstorage-init successful!
+2023-05-08T02:00:22.330Z [info] runtime init users successful!
+2023-05-08T02:00:22.342Z [info] FUXA init in  1642ms.
+2023-05-08T02:00:22.450Z [info] daqstorage reset!
+2023-05-08T02:00:22.458Z [info] 'FUXA Server' data loaded (1)
+2023-05-08T02:00:22.460Z [info] 'FUXA Server' created
+2023-05-08T02:00:22.477Z [info] 'mqtt-ctr' data loaded (3)
+2023-05-08T02:00:22.478Z [info] 'mqtt-ctr' created
+2023-05-08T02:00:22.486Z [info] 'mqtt-status' data loaded (4)
+2023-05-08T02:00:22.487Z [info] 'mqtt-status' created
+2023-05-08T02:00:22.494Z [info] 'FUXA Server' start
+2023-05-08T02:00:22.497Z [info] 'mqtt-ctr' start
+2023-05-08T02:00:22.499Z [info] 'mqtt-ctr' try to connect mqtt://192.168.14.15:1883
+2023-05-08T02:00:22.502Z [info] 'mqtt-status' start
+2023-05-08T02:00:22.503Z [info] 'mqtt-status' try to connect mqtt://192.168.14.15:1883
+2023-05-08T02:00:22.506Z [info] alarms check start
+2023-05-08T02:00:22.507Z [info] notificator check start
+2023-05-08T02:00:22.509Z [info] scripts.start-checkstatus
+2023-05-08T02:00:22.510Z [info] jobs check start
+2023-05-08T02:00:22.518Z [info] FUXA started!
+2023-05-08T02:00:22.535Z [info] WebServer is running http://127.0.0.1:1881/
+2023-05-08T02:00:22.537Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230317015914.db' database
+2023-05-08T02:00:22.540Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230508020022.db' database
+2023-05-08T02:00:22.543Z [info] daqstorage.bind-daq-map '_db/daq-map_0.db' database
+2023-05-08T02:00:22.545Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230317015914.db' database
+2023-05-08T02:00:22.547Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230508020022.db' database
+2023-05-08T02:00:22.548Z [info] daqstorage.bind-daq-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-05-08T02:00:22.550Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230317015914.db' database
+2023-05-08T02:00:22.551Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230508020022.db' database
+2023-05-08T02:00:22.552Z [info] daqstorage.bind-daq-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-05-08T02:00:22.751Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230317015914.db'
+2023-05-08T02:00:22.756Z [info] daqstorage.connected-to-map '_db/daq-map_0.db' database
+2023-05-08T02:00:22.759Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230317015914.db'
+2023-05-08T02:00:22.761Z [info] daqstorage.connected-to-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-05-08T02:00:22.763Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230317015914.db'
+2023-05-08T02:00:22.764Z [info] daqstorage.connected-to-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-05-08T02:00:22.767Z [info] daqstorage.connected-to-data '_db/daq-data_d_0971e054-c5f64d26_20230508020022.db' database
+2023-05-08T02:00:22.768Z [info] daqstorage.connected-to-data '_db/daq-data_d_fe0d0264-0cc44f76_20230508020022.db' database
+2023-05-08T02:00:22.769Z [info] daqstorage.connected-to-data '_db/daq-data_0_20230508020022.db' database
+2023-05-08T02:00:22.811Z [info] 'mqtt-ctr' connected!
+2023-05-08T02:00:22.834Z [info] daqstorage.load-map successful! '0'
+2023-05-08T02:00:22.835Z [info] daqstorage.load-map successful! 'd_0971e054-c5f64d26'
+2023-05-08T02:00:22.837Z [info] daqstorage.load-map successful! 'd_fe0d0264-0cc44f76'
+2023-05-08T02:00:22.839Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230317015914.db' database deleted!
+2023-05-08T02:00:22.845Z [info] 'mqtt-status' connected!
+2023-05-08T02:00:22.850Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230317015914.db' database deleted!
+2023-05-08T02:00:22.851Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230317015914.db' database deleted!
+2023-05-08T02:00:23.512Z [info] alarmsstorage.connected-to /usr/src/app/FUXA/server/_appdata/alarms.fuxap.db database.
+2023-05-08T02:00:23.523Z [info] alarms.alarmstorage-init-successful!
+2023-05-08T02:00:37.518Z [info] daqstorage.checkRetention processed
+2023-05-08T06:01:27.939Z [info] FUXA V.1.1.9-931
+2023-05-08T06:01:28.025Z [info] daqstorage: init successful!
+2023-05-08T06:01:29.057Z [info] api: init successful!
+2023-05-08T06:01:29.079Z [info] plugin-installed node-opcua 2.78.0
+2023-05-08T06:01:29.081Z [info] plugin-installed node-bacnet 0.2.4
+2023-05-08T06:01:29.082Z [info] plugin-installed node-snap7 1.0.6
+2023-05-08T06:01:29.083Z [info] runtime init plugins successful!
+2023-05-08T06:01:29.093Z [info] usrstorage.connected /usr/src/app/FUXA/server/_appdata/users.fuxap.db database
+2023-05-08T06:01:29.096Z [info] prjstorage.connected-to /usr/src/app/FUXA/server/_appdata/project.fuxap.db database
+2023-05-08T06:01:29.132Z [info] project.prjstorage-init-successful!
+2023-05-08T06:01:29.134Z [info] runtime init project successful!
+2023-05-08T06:01:29.151Z [info] users.usrstorage-init successful!
+2023-05-08T06:01:29.153Z [info] runtime init users successful!
+2023-05-08T06:01:29.166Z [info] FUXA init in  1314ms.
+2023-05-08T06:01:29.278Z [info] daqstorage reset!
+2023-05-08T06:01:29.285Z [info] 'FUXA Server' data loaded (1)
+2023-05-08T06:01:29.286Z [info] 'FUXA Server' created
+2023-05-08T06:01:29.301Z [info] 'mqtt-ctr' data loaded (3)
+2023-05-08T06:01:29.303Z [info] 'mqtt-ctr' created
+2023-05-08T06:01:29.310Z [info] 'mqtt-status' data loaded (4)
+2023-05-08T06:01:29.311Z [info] 'mqtt-status' created
+2023-05-08T06:01:29.317Z [info] 'FUXA Server' start
+2023-05-08T06:01:29.321Z [info] 'mqtt-ctr' start
+2023-05-08T06:01:29.323Z [info] 'mqtt-ctr' try to connect mqtt://192.168.14.15:1883
+2023-05-08T06:01:29.326Z [info] 'mqtt-status' start
+2023-05-08T06:01:29.327Z [info] 'mqtt-status' try to connect mqtt://192.168.14.15:1883
+2023-05-08T06:01:29.329Z [info] alarms check start
+2023-05-08T06:01:29.331Z [info] notificator check start
+2023-05-08T06:01:29.332Z [info] scripts.start-checkstatus
+2023-05-08T06:01:29.333Z [info] jobs check start
+2023-05-08T06:01:29.342Z [info] FUXA started!
+2023-05-08T06:01:29.360Z [info] WebServer is running http://127.0.0.1:1881/
+2023-05-08T06:01:29.363Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230508020022.db' database
+2023-05-08T06:01:29.364Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230508060129.db' database
+2023-05-08T06:01:29.365Z [info] daqstorage.bind-daq-map '_db/daq-map_0.db' database
+2023-05-08T06:01:29.366Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230508020022.db' database
+2023-05-08T06:01:29.368Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230508060129.db' database
+2023-05-08T06:01:29.369Z [info] daqstorage.bind-daq-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-05-08T06:01:29.370Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230508020022.db' database
+2023-05-08T06:01:29.371Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230508060129.db' database
+2023-05-08T06:01:29.372Z [info] daqstorage.bind-daq-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-05-08T06:01:29.548Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230508020022.db'
+2023-05-08T06:01:29.552Z [info] daqstorage.connected-to-map '_db/daq-map_0.db' database
+2023-05-08T06:01:29.554Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230508020022.db'
+2023-05-08T06:01:29.556Z [info] daqstorage.connected-to-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-05-08T06:01:29.558Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230508020022.db'
+2023-05-08T06:01:29.560Z [info] daqstorage.connected-to-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-05-08T06:01:29.561Z [info] daqstorage.connected-to-data '_db/daq-data_d_0971e054-c5f64d26_20230508060129.db' database
+2023-05-08T06:01:29.563Z [info] daqstorage.connected-to-data '_db/daq-data_d_fe0d0264-0cc44f76_20230508060129.db' database
+2023-05-08T06:01:29.564Z [info] daqstorage.connected-to-data '_db/daq-data_0_20230508060129.db' database
+2023-05-08T06:01:29.597Z [info] 'mqtt-ctr' connected!
+2023-05-08T06:01:29.619Z [info] daqstorage.load-map successful! 'd_0971e054-c5f64d26'
+2023-05-08T06:01:29.621Z [info] daqstorage.load-map successful! 'd_fe0d0264-0cc44f76'
+2023-05-08T06:01:29.623Z [info] daqstorage.load-map successful! '0'
+2023-05-08T06:01:29.625Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230508020022.db' database deleted!
+2023-05-08T06:01:29.632Z [info] 'mqtt-status' connected!
+2023-05-08T06:01:29.637Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230508020022.db' database deleted!
+2023-05-08T06:01:29.639Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230508020022.db' database deleted!
+2023-05-08T06:01:30.334Z [info] alarmsstorage.connected-to /usr/src/app/FUXA/server/_appdata/alarms.fuxap.db database.
+2023-05-08T06:01:30.342Z [info] alarms.alarmstorage-init-successful!
+2023-05-08T06:03:47.665Z [info] FUXA V.1.1.9-931
+2023-05-08T06:03:47.759Z [info] daqstorage: init successful!
+2023-05-08T06:03:49.048Z [info] api: init successful!
+2023-05-08T06:03:49.072Z [info] plugin-installed node-opcua 2.78.0
+2023-05-08T06:03:49.074Z [info] plugin-installed node-bacnet 0.2.4
+2023-05-08T06:03:49.075Z [info] plugin-installed node-snap7 1.0.6
+2023-05-08T06:03:49.076Z [info] runtime init plugins successful!
+2023-05-08T06:03:49.087Z [info] usrstorage.connected /usr/src/app/FUXA/server/_appdata/users.fuxap.db database
+2023-05-08T06:03:49.090Z [info] prjstorage.connected-to /usr/src/app/FUXA/server/_appdata/project.fuxap.db database
+2023-05-08T06:03:49.137Z [info] project.prjstorage-init-successful!
+2023-05-08T06:03:49.138Z [info] runtime init project successful!
+2023-05-08T06:03:49.143Z [info] users.usrstorage-init successful!
+2023-05-08T06:03:49.146Z [info] runtime init users successful!
+2023-05-08T06:03:49.148Z [info] FUXA init in  1569ms.
+2023-05-08T06:03:49.272Z [info] daqstorage reset!
+2023-05-08T06:03:49.279Z [info] 'FUXA Server' data loaded (1)
+2023-05-08T06:03:49.280Z [info] 'FUXA Server' created
+2023-05-08T06:03:49.296Z [info] 'mqtt-ctr' data loaded (3)
+2023-05-08T06:03:49.297Z [info] 'mqtt-ctr' created
+2023-05-08T06:03:49.306Z [info] 'mqtt-status' data loaded (4)
+2023-05-08T06:03:49.307Z [info] 'mqtt-status' created
+2023-05-08T06:03:49.314Z [info] 'FUXA Server' start
+2023-05-08T06:03:49.317Z [info] 'mqtt-ctr' start
+2023-05-08T06:03:49.319Z [info] 'mqtt-ctr' try to connect mqtt://192.168.14.15:1883
+2023-05-08T06:03:49.323Z [info] 'mqtt-status' start
+2023-05-08T06:03:49.323Z [info] 'mqtt-status' try to connect mqtt://192.168.14.15:1883
+2023-05-08T06:03:49.326Z [info] alarms check start
+2023-05-08T06:03:49.327Z [info] notificator check start
+2023-05-08T06:03:49.328Z [info] scripts.start-checkstatus
+2023-05-08T06:03:49.330Z [info] jobs check start
+2023-05-08T06:03:49.339Z [info] FUXA started!
+2023-05-08T06:03:49.356Z [info] WebServer is running http://127.0.0.1:1881/
+2023-05-08T06:03:49.358Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230508060129.db' database
+2023-05-08T06:03:49.359Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230508060349.db' database
+2023-05-08T06:03:49.361Z [info] daqstorage.bind-daq-map '_db/daq-map_0.db' database
+2023-05-08T06:03:49.362Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230508060129.db' database
+2023-05-08T06:03:49.364Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230508060349.db' database
+2023-05-08T06:03:49.365Z [info] daqstorage.bind-daq-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-05-08T06:03:49.367Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230508060129.db' database
+2023-05-08T06:03:49.368Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230508060349.db' database
+2023-05-08T06:03:49.370Z [info] daqstorage.bind-daq-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-05-08T06:03:49.559Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230508060129.db'
+2023-05-08T06:03:49.563Z [info] daqstorage.connected-to-map '_db/daq-map_0.db' database
+2023-05-08T06:03:49.565Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230508060129.db'
+2023-05-08T06:03:49.567Z [info] daqstorage.connected-to-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-05-08T06:03:49.568Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230508060129.db'
+2023-05-08T06:03:49.570Z [info] daqstorage.connected-to-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-05-08T06:03:49.572Z [info] daqstorage.connected-to-data '_db/daq-data_0_20230508060349.db' database
+2023-05-08T06:03:49.573Z [info] daqstorage.connected-to-data '_db/daq-data_d_fe0d0264-0cc44f76_20230508060349.db' database
+2023-05-08T06:03:49.574Z [info] daqstorage.connected-to-data '_db/daq-data_d_0971e054-c5f64d26_20230508060349.db' database
+2023-05-08T06:03:49.607Z [info] 'mqtt-ctr' connected!
+2023-05-08T06:03:49.628Z [info] daqstorage.load-map successful! '0'
+2023-05-08T06:03:49.629Z [info] daqstorage.load-map successful! 'd_0971e054-c5f64d26'
+2023-05-08T06:03:49.631Z [info] daqstorage.load-map successful! 'd_fe0d0264-0cc44f76'
+2023-05-08T06:03:49.633Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230508060129.db' database deleted!
+2023-05-08T06:03:49.639Z [info] 'mqtt-status' connected!
+2023-05-08T06:03:49.643Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230508060129.db' database deleted!
+2023-05-08T06:03:49.645Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230508060129.db' database deleted!
+2023-05-08T06:03:50.333Z [info] alarmsstorage.connected-to /usr/src/app/FUXA/server/_appdata/alarms.fuxap.db database.
+2023-05-08T06:03:50.338Z [info] alarms.alarmstorage-init-successful!
+2023-05-08T06:07:00.210Z [info] FUXA V.1.1.9-931
+2023-05-08T06:07:00.307Z [info] daqstorage: init successful!
+2023-05-08T06:07:01.585Z [info] api: init successful!
+2023-05-08T06:07:01.607Z [info] plugin-installed node-opcua 2.78.0
+2023-05-08T06:07:01.609Z [info] plugin-installed node-bacnet 0.2.4
+2023-05-08T06:07:01.610Z [info] plugin-installed node-snap7 1.0.6
+2023-05-08T06:07:01.611Z [info] runtime init plugins successful!
+2023-05-08T06:07:01.621Z [info] usrstorage.connected /usr/src/app/FUXA/server/_appdata/users.fuxap.db database
+2023-05-08T06:07:01.623Z [info] prjstorage.connected-to /usr/src/app/FUXA/server/_appdata/project.fuxap.db database
+2023-05-08T06:07:01.687Z [info] project.prjstorage-init-successful!
+2023-05-08T06:07:01.689Z [info] runtime init project successful!
+2023-05-08T06:07:01.702Z [info] users.usrstorage-init successful!
+2023-05-08T06:07:01.703Z [info] runtime init users successful!
+2023-05-08T06:07:01.705Z [info] FUXA init in  1578ms.
+2023-05-08T06:07:01.820Z [info] daqstorage reset!
+2023-05-08T06:07:01.826Z [info] 'FUXA Server' data loaded (1)
+2023-05-08T06:07:01.828Z [info] 'FUXA Server' created
+2023-05-08T06:07:01.844Z [info] 'mqtt-ctr' data loaded (3)
+2023-05-08T06:07:01.846Z [info] 'mqtt-ctr' created
+2023-05-08T06:07:01.854Z [info] 'mqtt-status' data loaded (4)
+2023-05-08T06:07:01.855Z [info] 'mqtt-status' created
+2023-05-08T06:07:01.861Z [info] 'FUXA Server' start
+2023-05-08T06:07:01.864Z [info] 'mqtt-ctr' start
+2023-05-08T06:07:01.866Z [info] 'mqtt-ctr' try to connect mqtt://192.168.14.15:1883
+2023-05-08T06:07:01.869Z [info] 'mqtt-status' start
+2023-05-08T06:07:01.870Z [info] 'mqtt-status' try to connect mqtt://192.168.14.15:1883
+2023-05-08T06:07:01.872Z [info] alarms check start
+2023-05-08T06:07:01.873Z [info] notificator check start
+2023-05-08T06:07:01.875Z [info] scripts.start-checkstatus
+2023-05-08T06:07:01.876Z [info] jobs check start
+2023-05-08T06:07:01.885Z [info] FUXA started!
+2023-05-08T06:07:01.905Z [info] WebServer is running http://127.0.0.1:1881/
+2023-05-08T06:07:01.909Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230508060349.db' database
+2023-05-08T06:07:01.910Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230508060701.db' database
+2023-05-08T06:07:01.912Z [info] daqstorage.bind-daq-map '_db/daq-map_0.db' database
+2023-05-08T06:07:01.913Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230508060349.db' database
+2023-05-08T06:07:01.914Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230508060701.db' database
+2023-05-08T06:07:01.915Z [info] daqstorage.bind-daq-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-05-08T06:07:01.917Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230508060349.db' database
+2023-05-08T06:07:01.918Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230508060701.db' database
+2023-05-08T06:07:01.919Z [info] daqstorage.bind-daq-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-05-08T06:07:02.131Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230508060349.db'
+2023-05-08T06:07:02.135Z [info] daqstorage.connected-to-map '_db/daq-map_0.db' database
+2023-05-08T06:07:02.137Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230508060349.db'
+2023-05-08T06:07:02.138Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230508060349.db'
+2023-05-08T06:07:02.140Z [info] daqstorage.connected-to-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-05-08T06:07:02.142Z [info] daqstorage.connected-to-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-05-08T06:07:02.143Z [info] daqstorage.connected-to-data '_db/daq-data_d_0971e054-c5f64d26_20230508060701.db' database
+2023-05-08T06:07:02.144Z [info] daqstorage.connected-to-data '_db/daq-data_0_20230508060701.db' database
+2023-05-08T06:07:02.145Z [info] daqstorage.connected-to-data '_db/daq-data_d_fe0d0264-0cc44f76_20230508060701.db' database
+2023-05-08T06:07:02.156Z [info] daqstorage.load-map successful! '0'
+2023-05-08T06:07:02.157Z [info] daqstorage.load-map successful! 'd_0971e054-c5f64d26'
+2023-05-08T06:07:02.158Z [info] daqstorage.load-map successful! 'd_fe0d0264-0cc44f76'
+2023-05-08T06:07:02.181Z [info] 'mqtt-ctr' connected!
+2023-05-08T06:07:02.199Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230508060349.db' database deleted!
+2023-05-08T06:07:02.201Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230508060349.db' database deleted!
+2023-05-08T06:07:02.202Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230508060349.db' database deleted!
+2023-05-08T06:07:02.207Z [info] 'mqtt-status' connected!
+2023-05-08T06:07:02.882Z [info] alarmsstorage.connected-to /usr/src/app/FUXA/server/_appdata/alarms.fuxap.db database.
+2023-05-08T06:07:02.885Z [info] alarms.alarmstorage-init-successful!
+2023-05-08T06:08:46.500Z [info] FUXA V.1.1.9-931
+2023-05-08T06:08:46.594Z [info] daqstorage: init successful!
+2023-05-08T06:08:47.911Z [info] api: init successful!
+2023-05-08T06:08:47.932Z [info] plugin-installed node-opcua 2.78.0
+2023-05-08T06:08:47.934Z [info] plugin-installed node-bacnet 0.2.4
+2023-05-08T06:08:47.935Z [info] plugin-installed node-snap7 1.0.6
+2023-05-08T06:08:47.936Z [info] runtime init plugins successful!
+2023-05-08T06:08:47.946Z [info] usrstorage.connected /usr/src/app/FUXA/server/_appdata/users.fuxap.db database
+2023-05-08T06:08:47.948Z [info] prjstorage.connected-to /usr/src/app/FUXA/server/_appdata/project.fuxap.db database
+2023-05-08T06:08:47.988Z [info] project.prjstorage-init-successful!
+2023-05-08T06:08:47.990Z [info] runtime init project successful!
+2023-05-08T06:08:47.995Z [info] users.usrstorage-init successful!
+2023-05-08T06:08:47.998Z [info] runtime init users successful!
+2023-05-08T06:08:48.001Z [info] FUXA init in  1596ms.
+2023-05-08T06:08:48.122Z [info] daqstorage reset!
+2023-05-08T06:08:48.129Z [info] 'FUXA Server' data loaded (1)
+2023-05-08T06:08:48.130Z [info] 'FUXA Server' created
+2023-05-08T06:08:48.147Z [info] 'mqtt-ctr' data loaded (3)
+2023-05-08T06:08:48.149Z [info] 'mqtt-ctr' created
+2023-05-08T06:08:48.158Z [info] 'mqtt-status' data loaded (4)
+2023-05-08T06:08:48.160Z [info] 'mqtt-status' created
+2023-05-08T06:08:48.168Z [info] 'FUXA Server' start
+2023-05-08T06:08:48.170Z [info] 'mqtt-ctr' start
+2023-05-08T06:08:48.173Z [info] 'mqtt-ctr' try to connect mqtt://192.168.14.15:1883
+2023-05-08T06:08:48.176Z [info] 'mqtt-status' start
+2023-05-08T06:08:48.177Z [info] 'mqtt-status' try to connect mqtt://192.168.14.15:1883
+2023-05-08T06:08:48.179Z [info] alarms check start
+2023-05-08T06:08:48.181Z [info] notificator check start
+2023-05-08T06:08:48.182Z [info] scripts.start-checkstatus
+2023-05-08T06:08:48.183Z [info] jobs check start
+2023-05-08T06:08:48.191Z [info] FUXA started!
+2023-05-08T06:08:48.208Z [info] WebServer is running http://127.0.0.1:1881/
+2023-05-08T06:08:48.211Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230508060701.db' database
+2023-05-08T06:08:48.213Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230508060848.db' database
+2023-05-08T06:08:48.216Z [info] daqstorage.bind-daq-map '_db/daq-map_0.db' database
+2023-05-08T06:08:48.219Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230508060701.db' database
+2023-05-08T06:08:48.221Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230508060848.db' database
+2023-05-08T06:08:48.223Z [info] daqstorage.bind-daq-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-05-08T06:08:48.225Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230508060701.db' database
+2023-05-08T06:08:48.227Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230508060848.db' database
+2023-05-08T06:08:48.229Z [info] daqstorage.bind-daq-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-05-08T06:08:48.404Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230508060701.db'
+2023-05-08T06:08:48.408Z [info] daqstorage.connected-to-map '_db/daq-map_0.db' database
+2023-05-08T06:08:48.411Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230508060701.db'
+2023-05-08T06:08:48.413Z [info] daqstorage.connected-to-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-05-08T06:08:48.414Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230508060701.db'
+2023-05-08T06:08:48.416Z [info] daqstorage.connected-to-data '_db/daq-data_d_0971e054-c5f64d26_20230508060848.db' database
+2023-05-08T06:08:48.418Z [info] daqstorage.connected-to-data '_db/daq-data_0_20230508060848.db' database
+2023-05-08T06:08:48.419Z [info] daqstorage.connected-to-data '_db/daq-data_d_fe0d0264-0cc44f76_20230508060848.db' database
+2023-05-08T06:08:48.420Z [info] daqstorage.connected-to-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-05-08T06:08:48.450Z [info] 'mqtt-ctr' connected!
+2023-05-08T06:08:48.467Z [info] daqstorage.load-map successful! '0'
+2023-05-08T06:08:48.468Z [info] daqstorage.load-map successful! 'd_0971e054-c5f64d26'
+2023-05-08T06:08:48.470Z [info] daqstorage.load-map successful! 'd_fe0d0264-0cc44f76'
+2023-05-08T06:08:48.482Z [info] 'mqtt-status' connected!
+2023-05-08T06:08:48.488Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230508060701.db' database deleted!
+2023-05-08T06:08:48.490Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230508060701.db' database deleted!
+2023-05-08T06:08:48.491Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230508060701.db' database deleted!
+2023-05-08T06:08:49.186Z [info] alarmsstorage.connected-to /usr/src/app/FUXA/server/_appdata/alarms.fuxap.db database.
+2023-05-08T06:08:49.194Z [info] alarms.alarmstorage-init-successful!
+2023-05-08T06:11:47.939Z [info] FUXA V.1.1.9-931
+2023-05-08T06:11:48.035Z [info] daqstorage: init successful!
+2023-05-08T06:11:49.323Z [info] api: init successful!
+2023-05-08T06:11:49.343Z [info] plugin-installed node-opcua 2.78.0
+2023-05-08T06:11:49.345Z [info] plugin-installed node-bacnet 0.2.4
+2023-05-08T06:11:49.346Z [info] plugin-installed node-snap7 1.0.6
+2023-05-08T06:11:49.348Z [info] runtime init plugins successful!
+2023-05-08T06:11:49.357Z [info] usrstorage.connected /usr/src/app/FUXA/server/_appdata/users.fuxap.db database
+2023-05-08T06:11:49.360Z [info] prjstorage.connected-to /usr/src/app/FUXA/server/_appdata/project.fuxap.db database
+2023-05-08T06:11:49.419Z [info] project.prjstorage-init-successful!
+2023-05-08T06:11:49.421Z [info] runtime init project successful!
+2023-05-08T06:11:49.426Z [info] users.usrstorage-init successful!
+2023-05-08T06:11:49.427Z [info] runtime init users successful!
+2023-05-08T06:11:49.430Z [info] FUXA init in  1572ms.
+2023-05-08T06:11:49.545Z [info] daqstorage reset!
+2023-05-08T06:11:49.552Z [info] 'FUXA Server' data loaded (1)
+2023-05-08T06:11:49.553Z [info] 'FUXA Server' created
+2023-05-08T06:11:49.569Z [info] 'mqtt-ctr' data loaded (3)
+2023-05-08T06:11:49.571Z [info] 'mqtt-ctr' created
+2023-05-08T06:11:49.579Z [info] 'mqtt-status' data loaded (4)
+2023-05-08T06:11:49.581Z [info] 'mqtt-status' created
+2023-05-08T06:11:49.587Z [info] 'FUXA Server' start
+2023-05-08T06:11:49.590Z [info] 'mqtt-ctr' start
+2023-05-08T06:11:49.592Z [info] 'mqtt-ctr' try to connect mqtt://192.168.14.15:1883
+2023-05-08T06:11:49.596Z [info] 'mqtt-status' start
+2023-05-08T06:11:49.596Z [info] 'mqtt-status' try to connect mqtt://192.168.14.15:1883
+2023-05-08T06:11:49.599Z [info] alarms check start
+2023-05-08T06:11:49.600Z [info] notificator check start
+2023-05-08T06:11:49.601Z [info] scripts.start-checkstatus
+2023-05-08T06:11:49.603Z [info] jobs check start
+2023-05-08T06:11:49.611Z [info] FUXA started!
+2023-05-08T06:11:49.628Z [info] WebServer is running http://127.0.0.1:1881/
+2023-05-08T06:11:49.631Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230508060848.db' database
+2023-05-08T06:11:49.633Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230508061149.db' database
+2023-05-08T06:11:49.634Z [info] daqstorage.bind-daq-map '_db/daq-map_0.db' database
+2023-05-08T06:11:49.636Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230508060848.db' database
+2023-05-08T06:11:49.638Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230508061149.db' database
+2023-05-08T06:11:49.639Z [info] daqstorage.bind-daq-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-05-08T06:11:49.640Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230508060848.db' database
+2023-05-08T06:11:49.642Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230508061149.db' database
+2023-05-08T06:11:49.644Z [info] daqstorage.bind-daq-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-05-08T06:11:49.830Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230508060848.db'
+2023-05-08T06:11:49.835Z [info] daqstorage.connected-to-map '_db/daq-map_0.db' database
+2023-05-08T06:11:49.838Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230508060848.db'
+2023-05-08T06:11:49.840Z [info] daqstorage.connected-to-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-05-08T06:11:49.841Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230508060848.db'
+2023-05-08T06:11:49.844Z [info] daqstorage.connected-to-data '_db/daq-data_d_fe0d0264-0cc44f76_20230508061149.db' database
+2023-05-08T06:11:49.845Z [info] daqstorage.connected-to-data '_db/daq-data_0_20230508061149.db' database
+2023-05-08T06:11:49.846Z [info] daqstorage.connected-to-data '_db/daq-data_d_0971e054-c5f64d26_20230508061149.db' database
+2023-05-08T06:11:49.847Z [info] daqstorage.connected-to-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-05-08T06:11:49.883Z [info] 'mqtt-ctr' connected!
+2023-05-08T06:11:49.901Z [info] daqstorage.load-map successful! '0'
+2023-05-08T06:11:49.903Z [info] daqstorage.load-map successful! 'd_0971e054-c5f64d26'
+2023-05-08T06:11:49.905Z [info] daqstorage.load-map successful! 'd_fe0d0264-0cc44f76'
+2023-05-08T06:11:49.910Z [info] 'mqtt-status' connected!
+2023-05-08T06:11:49.915Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230508060848.db' database deleted!
+2023-05-08T06:11:49.916Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230508060848.db' database deleted!
+2023-05-08T06:11:49.917Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230508060848.db' database deleted!
+2023-05-08T06:11:50.608Z [info] alarmsstorage.connected-to /usr/src/app/FUXA/server/_appdata/alarms.fuxap.db database.
+2023-05-08T06:11:50.611Z [info] alarms.alarmstorage-init-successful!
+2023-05-08T08:20:11.881Z [info] FUXA V.1.1.9-931
+2023-05-08T08:20:11.973Z [info] daqstorage: init successful!
+2023-05-08T08:20:13.257Z [info] api: init successful!
+2023-05-08T08:20:13.280Z [info] plugin-installed node-opcua 2.78.0
+2023-05-08T08:20:13.282Z [info] plugin-installed node-bacnet 0.2.4
+2023-05-08T08:20:13.284Z [info] plugin-installed node-snap7 1.0.6
+2023-05-08T08:20:13.285Z [info] runtime init plugins successful!
+2023-05-08T08:20:13.296Z [info] usrstorage.connected /usr/src/app/FUXA/server/_appdata/users.fuxap.db database
+2023-05-08T08:20:13.298Z [info] prjstorage.connected-to /usr/src/app/FUXA/server/_appdata/project.fuxap.db database
+2023-05-08T08:20:13.357Z [info] project.prjstorage-init-successful!
+2023-05-08T08:20:13.358Z [info] runtime init project successful!
+2023-05-08T08:20:13.380Z [info] users.usrstorage-init successful!
+2023-05-08T08:20:13.381Z [info] runtime init users successful!
+2023-05-08T08:20:13.383Z [info] FUXA init in  1586ms.
+2023-05-08T08:20:13.482Z [info] daqstorage reset!
+2023-05-08T08:20:13.489Z [info] 'FUXA Server' data loaded (1)
+2023-05-08T08:20:13.490Z [info] 'FUXA Server' created
+2023-05-08T08:20:13.506Z [info] 'mqtt-ctr' data loaded (3)
+2023-05-08T08:20:13.507Z [info] 'mqtt-ctr' created
+2023-05-08T08:20:13.515Z [info] 'mqtt-status' data loaded (4)
+2023-05-08T08:20:13.516Z [info] 'mqtt-status' created
+2023-05-08T08:20:13.524Z [info] 'FUXA Server' start
+2023-05-08T08:20:13.526Z [info] 'mqtt-ctr' start
+2023-05-08T08:20:13.529Z [info] 'mqtt-ctr' try to connect mqtt://192.168.14.15:1883
+2023-05-08T08:20:13.532Z [info] 'mqtt-status' start
+2023-05-08T08:20:13.533Z [info] 'mqtt-status' try to connect mqtt://192.168.14.15:1883
+2023-05-08T08:20:13.536Z [info] alarms check start
+2023-05-08T08:20:13.537Z [info] notificator check start
+2023-05-08T08:20:13.539Z [info] scripts.start-checkstatus
+2023-05-08T08:20:13.540Z [info] jobs check start
+2023-05-08T08:20:13.552Z [info] FUXA started!
+2023-05-08T08:20:13.570Z [info] WebServer is running http://127.0.0.1:1881/
+2023-05-08T08:20:13.573Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230508061149.db' database
+2023-05-08T08:20:13.574Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230508082013.db' database
+2023-05-08T08:20:13.575Z [info] daqstorage.bind-daq-map '_db/daq-map_0.db' database
+2023-05-08T08:20:13.577Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230508061149.db' database
+2023-05-08T08:20:13.578Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230508082013.db' database
+2023-05-08T08:20:13.579Z [info] daqstorage.bind-daq-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-05-08T08:20:13.580Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230508061149.db' database
+2023-05-08T08:20:13.581Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230508082013.db' database
+2023-05-08T08:20:13.582Z [info] daqstorage.bind-daq-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-05-08T08:20:13.771Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230508061149.db'
+2023-05-08T08:20:13.775Z [info] daqstorage.connected-to-map '_db/daq-map_0.db' database
+2023-05-08T08:20:13.778Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230508061149.db'
+2023-05-08T08:20:13.780Z [info] daqstorage.connected-to-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-05-08T08:20:13.782Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230508061149.db'
+2023-05-08T08:20:13.785Z [info] daqstorage.connected-to-data '_db/daq-data_0_20230508082013.db' database
+2023-05-08T08:20:13.786Z [info] daqstorage.connected-to-data '_db/daq-data_d_fe0d0264-0cc44f76_20230508082013.db' database
+2023-05-08T08:20:13.787Z [info] daqstorage.connected-to-data '_db/daq-data_d_0971e054-c5f64d26_20230508082013.db' database
+2023-05-08T08:20:13.787Z [info] daqstorage.connected-to-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-05-08T08:20:13.798Z [info] daqstorage.load-map successful! '0'
+2023-05-08T08:20:13.830Z [info] 'mqtt-ctr' connected!
+2023-05-08T08:20:13.847Z [info] daqstorage.load-map successful! 'd_0971e054-c5f64d26'
+2023-05-08T08:20:13.848Z [info] daqstorage.load-map successful! 'd_fe0d0264-0cc44f76'
+2023-05-08T08:20:13.851Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230508061149.db' database deleted!
+2023-05-08T08:20:13.852Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230508061149.db' database deleted!
+2023-05-08T08:20:13.857Z [info] 'mqtt-status' connected!
+2023-05-08T08:20:13.861Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230508061149.db' database deleted!
+2023-05-08T08:20:14.542Z [info] alarmsstorage.connected-to /usr/src/app/FUXA/server/_appdata/alarms.fuxap.db database.
+2023-05-08T08:20:14.552Z [info] alarms.alarmstorage-init-successful!
+2023-05-09T00:48:45.035Z [info] FUXA V.1.1.9-931
+2023-05-09T00:48:45.136Z [info] daqstorage: init successful!
+2023-05-09T00:48:46.429Z [info] api: init successful!
+2023-05-09T00:48:46.449Z [info] plugin-installed node-opcua 2.78.0
+2023-05-09T00:48:46.451Z [info] plugin-installed node-bacnet 0.2.4
+2023-05-09T00:48:46.452Z [info] plugin-installed node-snap7 1.0.6
+2023-05-09T00:48:46.453Z [info] runtime init plugins successful!
+2023-05-09T00:48:46.463Z [info] usrstorage.connected /usr/src/app/FUXA/server/_appdata/users.fuxap.db database
+2023-05-09T00:48:46.465Z [info] prjstorage.connected-to /usr/src/app/FUXA/server/_appdata/project.fuxap.db database
+2023-05-09T00:48:46.506Z [info] project.prjstorage-init-successful!
+2023-05-09T00:48:46.508Z [info] runtime init project successful!
+2023-05-09T00:48:46.513Z [info] users.usrstorage-init successful!
+2023-05-09T00:48:46.515Z [info] runtime init users successful!
+2023-05-09T00:48:46.518Z [info] FUXA init in  1576ms.
+2023-05-09T00:48:46.657Z [info] daqstorage reset!
+2023-05-09T00:48:46.664Z [info] 'FUXA Server' data loaded (1)
+2023-05-09T00:48:46.665Z [info] 'FUXA Server' created
+2023-05-09T00:48:46.682Z [info] 'mqtt-ctr' data loaded (3)
+2023-05-09T00:48:46.683Z [info] 'mqtt-ctr' created
+2023-05-09T00:48:46.691Z [info] 'mqtt-status' data loaded (4)
+2023-05-09T00:48:46.692Z [info] 'mqtt-status' created
+2023-05-09T00:48:46.699Z [info] 'FUXA Server' start
+2023-05-09T00:48:46.702Z [info] 'mqtt-ctr' start
+2023-05-09T00:48:46.704Z [info] 'mqtt-ctr' try to connect mqtt://192.168.14.15:1883
+2023-05-09T00:48:46.708Z [info] 'mqtt-status' start
+2023-05-09T00:48:46.709Z [info] 'mqtt-status' try to connect mqtt://192.168.14.15:1883
+2023-05-09T00:48:46.711Z [info] alarms check start
+2023-05-09T00:48:46.713Z [info] notificator check start
+2023-05-09T00:48:46.714Z [info] scripts.start-checkstatus
+2023-05-09T00:48:46.715Z [info] jobs check start
+2023-05-09T00:48:46.724Z [info] FUXA started!
+2023-05-09T00:48:46.741Z [info] WebServer is running http://127.0.0.1:1881/
+2023-05-09T00:48:46.744Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230508082013.db' database
+2023-05-09T00:48:46.745Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230509004846.db' database
+2023-05-09T00:48:46.747Z [info] daqstorage.bind-daq-map '_db/daq-map_0.db' database
+2023-05-09T00:48:46.749Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230508082013.db' database
+2023-05-09T00:48:46.751Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230509004846.db' database
+2023-05-09T00:48:46.752Z [info] daqstorage.bind-daq-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-05-09T00:48:46.754Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230508082013.db' database
+2023-05-09T00:48:46.756Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230509004846.db' database
+2023-05-09T00:48:46.758Z [info] daqstorage.bind-daq-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-05-09T00:48:46.946Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230508082013.db'
+2023-05-09T00:48:46.950Z [info] daqstorage.connected-to-map '_db/daq-map_0.db' database
+2023-05-09T00:48:46.952Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230508082013.db'
+2023-05-09T00:48:46.954Z [info] daqstorage.connected-to-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-05-09T00:48:46.955Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230508082013.db'
+2023-05-09T00:48:46.957Z [info] daqstorage.connected-to-data '_db/daq-data_0_20230509004846.db' database
+2023-05-09T00:48:46.958Z [info] daqstorage.connected-to-data '_db/daq-data_d_0971e054-c5f64d26_20230509004846.db' database
+2023-05-09T00:48:46.959Z [info] daqstorage.connected-to-data '_db/daq-data_d_fe0d0264-0cc44f76_20230509004846.db' database
+2023-05-09T00:48:46.966Z [info] daqstorage.connected-to-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-05-09T00:48:46.992Z [info] 'mqtt-ctr' connected!
+2023-05-09T00:48:47.009Z [info] daqstorage.load-map successful! '0'
+2023-05-09T00:48:47.011Z [info] daqstorage.load-map successful! 'd_0971e054-c5f64d26'
+2023-05-09T00:48:47.013Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230508082013.db' database deleted!
+2023-05-09T00:48:47.018Z [info] 'mqtt-status' connected!
+2023-05-09T00:48:47.022Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230508082013.db' database deleted!
+2023-05-09T00:48:47.024Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230508082013.db' database deleted!
+2023-05-09T00:48:47.025Z [info] daqstorage.load-map successful! 'd_fe0d0264-0cc44f76'
+2023-05-09T00:48:47.718Z [info] alarmsstorage.connected-to /usr/src/app/FUXA/server/_appdata/alarms.fuxap.db database.
+2023-05-09T00:48:47.723Z [info] alarms.alarmstorage-init-successful!
+2023-05-09T01:19:01.775Z [info] daqstorage.checkRetention processed
+2023-05-10T01:19:04.883Z [info] daqstorage.checkRetention processed
+2023-05-10T08:04:44.085Z [info] FUXA V.1.1.9-931
+2023-05-10T08:04:44.186Z [info] daqstorage: init successful!
+2023-05-10T08:04:45.619Z [info] api: init successful!
+2023-05-10T08:04:45.642Z [info] plugin-installed node-opcua 2.78.0
+2023-05-10T08:04:45.644Z [info] plugin-installed node-bacnet 0.2.4
+2023-05-10T08:04:45.645Z [info] plugin-installed node-snap7 1.0.6
+2023-05-10T08:04:45.647Z [info] runtime init plugins successful!
+2023-05-10T08:04:45.657Z [info] usrstorage.connected /usr/src/app/FUXA/server/_appdata/users.fuxap.db database
+2023-05-10T08:04:45.660Z [info] prjstorage.connected-to /usr/src/app/FUXA/server/_appdata/project.fuxap.db database
+2023-05-10T08:04:45.726Z [info] project.prjstorage-init-successful!
+2023-05-10T08:04:45.739Z [info] runtime init project successful!
+2023-05-10T08:04:45.744Z [info] users.usrstorage-init successful!
+2023-05-10T08:04:45.755Z [info] runtime init users successful!
+2023-05-10T08:04:45.764Z [info] FUXA init in  1783ms.
+2023-05-10T08:04:45.861Z [info] daqstorage reset!
+2023-05-10T08:04:45.868Z [info] 'FUXA Server' data loaded (1)
+2023-05-10T08:04:45.869Z [info] 'FUXA Server' created
+2023-05-10T08:04:45.884Z [info] 'mqtt-ctr' data loaded (3)
+2023-05-10T08:04:45.886Z [info] 'mqtt-ctr' created
+2023-05-10T08:04:45.894Z [info] 'mqtt-status' data loaded (4)
+2023-05-10T08:04:45.896Z [info] 'mqtt-status' created
+2023-05-10T08:04:45.902Z [info] 'FUXA Server' start
+2023-05-10T08:04:45.905Z [info] 'mqtt-ctr' start
+2023-05-10T08:04:45.907Z [info] 'mqtt-ctr' try to connect mqtt://192.168.14.15:1883
+2023-05-10T08:04:45.910Z [info] 'mqtt-status' start
+2023-05-10T08:04:45.911Z [info] 'mqtt-status' try to connect mqtt://192.168.14.15:1883
+2023-05-10T08:04:45.913Z [info] alarms check start
+2023-05-10T08:04:45.915Z [info] notificator check start
+2023-05-10T08:04:45.916Z [info] scripts.start-checkstatus
+2023-05-10T08:04:45.917Z [info] jobs check start
+2023-05-10T08:04:45.926Z [info] FUXA started!
+2023-05-10T08:04:45.943Z [info] WebServer is running http://127.0.0.1:1881/
+2023-05-10T08:04:45.946Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230509004846.db' database
+2023-05-10T08:04:45.947Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230510080445.db' database
+2023-05-10T08:04:45.949Z [info] daqstorage.bind-daq-map '_db/daq-map_0.db' database
+2023-05-10T08:04:45.950Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230509004846.db' database
+2023-05-10T08:04:45.951Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230510080445.db' database
+2023-05-10T08:04:45.953Z [info] daqstorage.bind-daq-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-05-10T08:04:45.954Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230509004846.db' database
+2023-05-10T08:04:45.955Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230510080445.db' database
+2023-05-10T08:04:45.956Z [info] daqstorage.bind-daq-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-05-10T08:04:46.144Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230509004846.db'
+2023-05-10T08:04:46.149Z [info] daqstorage.connected-to-map '_db/daq-map_0.db' database
+2023-05-10T08:04:46.151Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230509004846.db'
+2023-05-10T08:04:46.154Z [info] daqstorage.connected-to-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-05-10T08:04:46.155Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230509004846.db'
+2023-05-10T08:04:46.158Z [info] daqstorage.connected-to-data '_db/daq-data_d_fe0d0264-0cc44f76_20230510080445.db' database
+2023-05-10T08:04:46.159Z [info] daqstorage.connected-to-data '_db/daq-data_0_20230510080445.db' database
+2023-05-10T08:04:46.160Z [info] daqstorage.connected-to-data '_db/daq-data_d_0971e054-c5f64d26_20230510080445.db' database
+2023-05-10T08:04:46.168Z [info] daqstorage.connected-to-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-05-10T08:04:46.172Z [info] daqstorage.load-map successful! '0'
+2023-05-10T08:04:46.198Z [info] 'mqtt-ctr' connected!
+2023-05-10T08:04:46.214Z [info] daqstorage.load-map successful! 'd_0971e054-c5f64d26'
+2023-05-10T08:04:46.217Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230509004846.db' database deleted!
+2023-05-10T08:04:46.221Z [info] 'mqtt-status' connected!
+2023-05-10T08:04:46.225Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230509004846.db' database deleted!
+2023-05-10T08:04:46.226Z [info] daqstorage.load-map successful! 'd_fe0d0264-0cc44f76'
+2023-05-10T08:04:46.228Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230509004846.db' database deleted!
+2023-05-10T08:04:46.918Z [info] alarmsstorage.connected-to /usr/src/app/FUXA/server/_appdata/alarms.fuxap.db database.
+2023-05-10T08:04:46.926Z [info] alarms.alarmstorage-init-successful!
+2023-05-11T01:05:03.201Z [info] daqstorage.checkRetention processed
+2023-05-12T01:05:06.381Z [info] daqstorage.checkRetention processed
+2023-05-13T01:05:09.552Z [info] daqstorage.checkRetention processed
+2023-05-14T01:05:12.679Z [info] daqstorage.checkRetention processed
+2023-05-15T01:05:15.984Z [info] daqstorage.checkRetention processed
+2023-05-15T05:17:31.557Z [info] FUXA V.1.1.9-931
+2023-05-15T05:17:31.654Z [info] daqstorage: init successful!
+2023-05-15T05:17:32.939Z [info] api: init successful!
+2023-05-15T05:17:32.963Z [info] plugin-installed node-opcua 2.78.0
+2023-05-15T05:17:32.966Z [info] plugin-installed node-bacnet 0.2.4
+2023-05-15T05:17:32.967Z [info] plugin-installed node-snap7 1.0.6
+2023-05-15T05:17:32.969Z [info] runtime init plugins successful!
+2023-05-15T05:17:32.981Z [info] usrstorage.connected /usr/src/app/FUXA/server/_appdata/users.fuxap.db database
+2023-05-15T05:17:32.984Z [info] prjstorage.connected-to /usr/src/app/FUXA/server/_appdata/project.fuxap.db database
+2023-05-15T05:17:33.041Z [info] project.prjstorage-init-successful!
+2023-05-15T05:17:33.051Z [info] runtime init project successful!
+2023-05-15T05:17:33.069Z [info] users.usrstorage-init successful!
+2023-05-15T05:17:33.079Z [info] runtime init users successful!
+2023-05-15T05:17:33.081Z [info] FUXA init in  1620ms.
+2023-05-15T05:17:33.166Z [info] daqstorage reset!
+2023-05-15T05:17:33.172Z [info] 'FUXA Server' data loaded (1)
+2023-05-15T05:17:33.175Z [info] 'FUXA Server' created
+2023-05-15T05:17:33.191Z [info] 'mqtt-ctr' data loaded (3)
+2023-05-15T05:17:33.192Z [info] 'mqtt-ctr' created
+2023-05-15T05:17:33.200Z [info] 'mqtt-status' data loaded (4)
+2023-05-15T05:17:33.201Z [info] 'mqtt-status' created
+2023-05-15T05:17:33.208Z [info] 'FUXA Server' start
+2023-05-15T05:17:33.211Z [info] 'mqtt-ctr' start
+2023-05-15T05:17:33.213Z [info] 'mqtt-ctr' try to connect mqtt://192.168.14.15:1883
+2023-05-15T05:17:33.216Z [info] 'mqtt-status' start
+2023-05-15T05:17:33.217Z [info] 'mqtt-status' try to connect mqtt://192.168.14.15:1883
+2023-05-15T05:17:33.219Z [info] alarms check start
+2023-05-15T05:17:33.221Z [info] notificator check start
+2023-05-15T05:17:33.223Z [info] scripts.start-checkstatus
+2023-05-15T05:17:33.224Z [info] jobs check start
+2023-05-15T05:17:33.233Z [info] FUXA started!
+2023-05-15T05:17:33.250Z [info] WebServer is running http://127.0.0.1:1881/
+2023-05-15T05:17:33.252Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230510080445.db' database
+2023-05-15T05:17:33.253Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230515051733.db' database
+2023-05-15T05:17:33.255Z [info] daqstorage.bind-daq-map '_db/daq-map_0.db' database
+2023-05-15T05:17:33.256Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230510080445.db' database
+2023-05-15T05:17:33.258Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230515051733.db' database
+2023-05-15T05:17:33.259Z [info] daqstorage.bind-daq-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-05-15T05:17:33.260Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230510080445.db' database
+2023-05-15T05:17:33.261Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230515051733.db' database
+2023-05-15T05:17:33.263Z [info] daqstorage.bind-daq-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-05-15T05:17:33.448Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230510080445.db'
+2023-05-15T05:17:33.451Z [info] daqstorage.connected-to-map '_db/daq-map_0.db' database
+2023-05-15T05:17:33.454Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230510080445.db'
+2023-05-15T05:17:33.455Z [info] daqstorage.connected-to-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-05-15T05:17:33.457Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230510080445.db'
+2023-05-15T05:17:33.464Z [info] daqstorage.connected-to-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-05-15T05:17:33.466Z [info] daqstorage.connected-to-data '_db/daq-data_0_20230515051733.db' database
+2023-05-15T05:17:33.467Z [info] daqstorage.connected-to-data '_db/daq-data_d_0971e054-c5f64d26_20230515051733.db' database
+2023-05-15T05:17:33.468Z [info] daqstorage.connected-to-data '_db/daq-data_d_fe0d0264-0cc44f76_20230515051733.db' database
+2023-05-15T05:17:33.478Z [info] daqstorage.load-map successful! '0'
+2023-05-15T05:17:33.479Z [info] daqstorage.load-map successful! 'd_0971e054-c5f64d26'
+2023-05-15T05:17:33.481Z [info] daqstorage.load-map successful! 'd_fe0d0264-0cc44f76'
+2023-05-15T05:17:33.504Z [info] 'mqtt-status' connected!
+2023-05-15T05:17:33.519Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230510080445.db' database deleted!
+2023-05-15T05:17:33.521Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230510080445.db' database deleted!
+2023-05-15T05:17:33.522Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230510080445.db' database deleted!
+2023-05-15T05:17:33.527Z [info] 'mqtt-ctr' connected!
+2023-05-15T05:17:34.224Z [info] alarmsstorage.connected-to /usr/src/app/FUXA/server/_appdata/alarms.fuxap.db database.
+2023-05-15T05:17:34.228Z [info] alarms.alarmstorage-init-successful!
+2023-05-15T06:23:03.501Z [info] FUXA V.1.1.9-931
+2023-05-15T06:23:03.601Z [info] daqstorage: init successful!
+2023-05-15T06:23:04.887Z [info] api: init successful!
+2023-05-15T06:23:04.909Z [info] plugin-installed node-opcua 2.78.0
+2023-05-15T06:23:04.911Z [info] plugin-installed node-bacnet 0.2.4
+2023-05-15T06:23:04.912Z [info] plugin-installed node-snap7 1.0.6
+2023-05-15T06:23:04.913Z [info] runtime init plugins successful!
+2023-05-15T06:23:04.921Z [info] usrstorage.connected /usr/src/app/FUXA/server/_appdata/users.fuxap.db database
+2023-05-15T06:23:04.923Z [info] prjstorage.connected-to /usr/src/app/FUXA/server/_appdata/project.fuxap.db database
+2023-05-15T06:23:04.973Z [info] project.prjstorage-init-successful!
+2023-05-15T06:23:04.975Z [info] runtime init project successful!
+2023-05-15T06:23:04.983Z [info] users.usrstorage-init successful!
+2023-05-15T06:23:04.985Z [info] runtime init users successful!
+2023-05-15T06:23:04.987Z [info] FUXA init in  1570ms.
+2023-05-15T06:23:05.092Z [info] daqstorage reset!
+2023-05-15T06:23:05.100Z [info] 'FUXA Server' data loaded (1)
+2023-05-15T06:23:05.101Z [info] 'FUXA Server' created
+2023-05-15T06:23:05.119Z [info] 'mqtt-ctr' data loaded (3)
+2023-05-15T06:23:05.121Z [info] 'mqtt-ctr' created
+2023-05-15T06:23:05.129Z [info] 'mqtt-status' data loaded (4)
+2023-05-15T06:23:05.130Z [info] 'mqtt-status' created
+2023-05-15T06:23:05.137Z [info] 'FUXA Server' start
+2023-05-15T06:23:05.140Z [info] 'mqtt-ctr' start
+2023-05-15T06:23:05.142Z [info] 'mqtt-ctr' try to connect mqtt://192.168.14.15:1883
+2023-05-15T06:23:05.145Z [info] 'mqtt-status' start
+2023-05-15T06:23:05.146Z [info] 'mqtt-status' try to connect mqtt://192.168.14.15:1883
+2023-05-15T06:23:05.149Z [info] alarms check start
+2023-05-15T06:23:05.150Z [info] notificator check start
+2023-05-15T06:23:05.151Z [info] scripts.start-checkstatus
+2023-05-15T06:23:05.153Z [info] jobs check start
+2023-05-15T06:23:05.163Z [info] FUXA started!
+2023-05-15T06:23:05.182Z [info] WebServer is running http://127.0.0.1:1881/
+2023-05-15T06:23:05.185Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230515051733.db' database
+2023-05-15T06:23:05.187Z [info] daqstorage.bind-daq-data '_db/daq-data_0_20230515062305.db' database
+2023-05-15T06:23:05.189Z [info] daqstorage.bind-daq-map '_db/daq-map_0.db' database
+2023-05-15T06:23:05.190Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230515051733.db' database
+2023-05-15T06:23:05.192Z [info] daqstorage.bind-daq-data '_db/daq-data_d_0971e054-c5f64d26_20230515062305.db' database
+2023-05-15T06:23:05.193Z [info] daqstorage.bind-daq-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-05-15T06:23:05.194Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230515051733.db' database
+2023-05-15T06:23:05.196Z [info] daqstorage.bind-daq-data '_db/daq-data_d_fe0d0264-0cc44f76_20230515062305.db' database
+2023-05-15T06:23:05.197Z [info] daqstorage.bind-daq-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-05-15T06:23:05.385Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230515051733.db'
+2023-05-15T06:23:05.389Z [info] daqstorage.connected-to-map '_db/daq-map_0.db' database
+2023-05-15T06:23:05.391Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230515051733.db'
+2023-05-15T06:23:05.393Z [info] daqstorage.connected-to-map '_db/daq-map_d_0971e054-c5f64d26.db' database
+2023-05-15T06:23:05.394Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230515051733.db'
+2023-05-15T06:23:05.396Z [info] daqstorage.connected-to-data '_db/daq-data_0_20230515062305.db' database
+2023-05-15T06:23:05.397Z [info] daqstorage.connected-to-data '_db/daq-data_d_0971e054-c5f64d26_20230515062305.db' database
+2023-05-15T06:23:05.398Z [info] daqstorage.connected-to-data '_db/daq-data_d_fe0d0264-0cc44f76_20230515062305.db' database
+2023-05-15T06:23:05.399Z [info] daqstorage.connected-to-map '_db/daq-map_d_fe0d0264-0cc44f76.db' database
+2023-05-15T06:23:05.429Z [info] 'mqtt-ctr' connected!
+2023-05-15T06:23:05.445Z [info] daqstorage.load-map successful! '0'
+2023-05-15T06:23:05.447Z [info] daqstorage.load-map successful! 'd_0971e054-c5f64d26'
+2023-05-15T06:23:05.449Z [info] daqstorage.load-map successful! 'd_fe0d0264-0cc44f76'
+2023-05-15T06:23:05.451Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_0_20230515051733.db' database deleted!
+2023-05-15T06:23:05.456Z [info] 'mqtt-status' connected!
+2023-05-15T06:23:05.460Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_0971e054-c5f64d26_20230515051733.db' database deleted!
+2023-05-15T06:23:05.461Z [info] daqstorage.check-to-archive-db-file '_db/daq-data_d_fe0d0264-0cc44f76_20230515051733.db' database deleted!
+2023-05-15T06:23:06.163Z [info] alarmsstorage.connected-to /usr/src/app/FUXA/server/_appdata/alarms.fuxap.db database.
+2023-05-15T06:23:06.166Z [info] alarms.alarmstorage-init-successful!
+2023-05-16T01:23:22.633Z [info] daqstorage.checkRetention processed
+2023-05-17T01:23:25.830Z [info] daqstorage.checkRetention processed
+2023-05-18T01:23:29.033Z [info] daqstorage.checkRetention processed
+2023-05-19T01:23:32.187Z [info] daqstorage.checkRetention processed
+2023-05-20T01:23:35.345Z [info] daqstorage.checkRetention processed
+2023-05-21T01:23:38.557Z [info] daqstorage.checkRetention processed
+2023-05-22T01:23:41.695Z [info] daqstorage.checkRetention processed
+2023-05-23T01:23:44.945Z [info] daqstorage.checkRetention processed
+2023-05-24T01:23:48.149Z [info] daqstorage.checkRetention processed
+2023-05-25T01:23:51.389Z [info] daqstorage.checkRetention processed
+2023-05-26T01:23:54.528Z [info] daqstorage.checkRetention processed
+2023-05-27T01:23:57.652Z [info] daqstorage.checkRetention processed
+2023-05-28T01:24:00.840Z [info] daqstorage.checkRetention processed
+2023-05-29T01:24:04.022Z [info] daqstorage.checkRetention processed
+2023-05-30T01:24:07.220Z [info] daqstorage.checkRetention processed
+2023-05-31T01:24:10.409Z [info] daqstorage.checkRetention processed
+2023-06-01T01:24:13.573Z [info] daqstorage.checkRetention processed
+2023-06-02T01:24:16.736Z [info] daqstorage.checkRetention processed
+2023-06-03T01:24:19.966Z [info] daqstorage.checkRetention processed
+2023-06-04T01:24:23.186Z [info] daqstorage.checkRetention processed
+2023-06-05T01:24:26.483Z [info] daqstorage.checkRetention processed

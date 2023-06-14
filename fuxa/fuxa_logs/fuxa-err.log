@@ -1,0 +1,102 @@
+2022-12-22T05:30:35.399Z [error] api post projectData: Unauthorized
+2022-12-22T05:30:52.303Z [error] api post projectData: Unauthorized
+2022-12-22T05:31:04.821Z [error] api post alarms: Unauthorized
+2022-12-22T05:31:28.344Z [error] api post settings: Unauthorized
+2022-12-22T05:31:37.632Z [error] api post projectData: Unauthorized
+2022-12-22T06:22:04.828Z [error] api post signin: Not Found!
+2022-12-22T06:45:53.326Z [error] api post projectData: Tocken Expired
+2022-12-22T06:46:21.593Z [error] api post settings: Unauthorized
+2022-12-22T06:46:32.819Z [error] api post projectData: Unauthorized
+2022-12-22T06:46:52.735Z [error] api post settings: Unauthorized
+2022-12-22T06:46:56.821Z [error] api post projectData: Unauthorized
+2022-12-22T07:03:22.452Z [error] api post users: Tocken Expired
+2022-12-22T07:16:41.316Z [error] api post projectData: Unauthorized
+2022-12-22T07:29:33.910Z [error] api post signin: Not Found!
+2022-12-22T07:30:08.702Z [error] api post signin: Not Found!
+2022-12-22T07:58:05.753Z [error] api post projectData: Tocken Expired
+2022-12-22T07:58:16.326Z [error] api post projectData: Unauthorized
+2022-12-22T08:35:09.619Z [error] api post projectData: Tocken Expired
+2022-12-22T08:35:17.586Z [error] api post projectData: Unauthorized
+2022-12-22T08:50:45.207Z [error] api post projectData: Tocken Expired
+2022-12-22T09:06:07.960Z [error] api post projectData: Tocken Expired
+2022-12-22T09:06:15.937Z [error] api post projectData: Unauthorized
+2022-12-22T09:23:23.508Z [error] api post projectData: Tocken Expired
+2022-12-22T09:23:31.163Z [error] api post projectData: Unauthorized
+2022-12-23T00:52:53.050Z [error] api post projectData: Unauthorized
+2022-12-23T00:52:59.088Z [error] api post projectData: Unauthorized
+2022-12-23T01:12:32.969Z [error] api post projectData: Tocken Expired
+2022-12-23T02:02:45.813Z [error] api post projectData: Tocken Expired
+2022-12-23T02:02:51.968Z [error] api post projectData: Unauthorized
+2022-12-23T02:03:06.365Z [error] api post signin: Invalid email/password!!!
+2022-12-23T06:00:42.560Z [error] api post projectData: Tocken Expired
+2022-12-23T08:11:28.722Z [error] api post projectData: Tocken Expired
+2022-12-23T08:29:26.358Z [error] api post projectData: Tocken Expired
+2022-12-23T08:29:31.254Z [error] api post projectData: Unauthorized
+2022-12-23T08:58:30.983Z [error] api post projectData: Tocken Expired
+2022-12-23T09:10:10.727Z [error] api post signin: Not Found!
+2022-12-23T09:10:16.596Z [error] api post signin: Not Found!
+2022-12-23T09:10:25.675Z [error] api post signin: Not Found!
+2022-12-23T09:10:28.506Z [error] api post signin: Not Found!
+2022-12-23T09:10:32.752Z [error] api post signin: Invalid email/password!!!
+2022-12-27T05:10:32.858Z [error] api post projectData: Tocken Expired
+2022-12-27T05:10:39.223Z [error] api post projectData: Unauthorized
+2022-12-27T05:27:19.638Z [error] api post projectData: Tocken Expired
+2022-12-27T05:27:25.135Z [error] api post projectData: Unauthorized
+2022-12-27T05:54:42.986Z [error] api post projectData: Unauthorized
+2022-12-27T06:10:38.507Z [error] api post projectData: Tocken Expired
+2022-12-27T06:10:44.314Z [error] api post projectData: Unauthorized
+2022-12-27T06:10:54.029Z [error] api post signin: Not Found!
+2022-12-27T06:11:00.267Z [error] api post signin: Not Found!
+2022-12-27T06:11:01.450Z [error] api post signin: Not Found!
+2022-12-27T06:11:19.331Z [error] api post signin: Not Found!
+2022-12-27T06:39:28.649Z [error] api post projectData: Tocken Expired
+2022-12-27T08:31:20.188Z [error] api post projectData: Tocken Expired
+2022-12-28T00:57:07.087Z [error] api post projectData: Unauthorized
+2022-12-28T03:15:46.200Z [error] api post projectData: Tocken Expired
+2022-12-28T03:15:54.167Z [error] api post projectData: Unauthorized
+2022-12-28T03:16:00.322Z [error] api post projectData: Unauthorized
+2022-12-28T03:50:24.372Z [error] api post users: Tocken Expired
+2022-12-28T04:16:05.889Z [error] api post projectData: Tocken Expired
+2022-12-28T05:08:49.614Z [error] api post projectData: Tocken Expired
+2022-12-28T09:00:14.967Z [error] api post projectData: Tocken Expired
+2022-12-28T09:18:24.840Z [error] api post projectData: Tocken Expired
+2022-12-29T01:02:02.712Z [error] api post projectData: Unauthorized
+2022-12-29T01:27:29.851Z [error] api post projectData: Tocken Expired
+2022-12-29T02:10:15.742Z [error] api get plugins: Tocken Expired
+2022-12-29T02:41:13.456Z [error] api post projectData: Tocken Expired
+2022-12-29T02:57:43.847Z [error] api post projectData: Tocken Expired
+2022-12-29T06:43:37.783Z [error] api post projectData: Tocken Expired
+2023-01-10T02:30:59.635Z [error] api post projectData: Unauthorized
+2023-01-10T02:31:13.368Z [error] api post projectData: Unauthorized
+2023-01-10T02:31:20.358Z [error] api post projectData: Unauthorized
+2023-01-10T02:31:27.245Z [error] api post projectData: Unauthorized
+2023-01-10T02:31:33.221Z [error] api post settings: Unauthorized
+2023-01-10T02:31:41.501Z [error] api post projectData: Unauthorized
+2023-01-10T02:31:46.965Z [error] api get resources/images: Unauthorized!
+2023-01-10T02:31:50.785Z [error] api post projectData: Unauthorized
+2023-01-10T02:31:56.755Z [error] api post projectData: Unauthorized
+2023-01-10T02:32:08.001Z [error] api post projectData: Unauthorized
+2023-01-10T02:32:21.916Z [error] api post settings: Unauthorized
+2023-01-10T02:32:25.427Z [error] api post projectData: Unauthorized
+2023-01-10T02:32:52.878Z [error] api post projectData: Unauthorized
+2023-01-10T02:33:02.535Z [error] api post settings: Unauthorized
+2023-01-10T02:56:07.965Z [error] api post projectData: Tocken Expired
+2023-01-10T02:56:26.050Z [error] api post projectData: Unauthorized
+2023-01-29T05:20:48.232Z [error] 'mqtt-ctr' missing connection data!
+2023-01-29T05:20:53.235Z [error] 'mqtt-ctr' missing connection data!
+2023-01-29T05:20:58.235Z [error] 'mqtt-ctr' missing connection data!
+2023-01-29T05:21:03.236Z [error] 'mqtt-ctr' missing connection data!
+2023-01-29T05:21:08.235Z [error] 'mqtt-ctr' missing connection data!
+2023-01-29T05:21:13.235Z [error] 'mqtt-ctr' missing connection data!
+2023-01-29T05:21:18.235Z [error] 'mqtt-ctr' missing connection data!
+2023-01-29T05:21:23.235Z [error] 'mqtt-ctr' missing connection data!
+2023-01-29T05:21:28.236Z [error] 'mqtt-ctr' missing connection data!
+2023-01-29T05:21:33.236Z [error] 'mqtt-ctr' missing connection data!
+2023-01-29T05:21:38.236Z [error] 'mqtt-ctr' missing connection data!
+2023-01-29T05:21:43.236Z [error] 'mqtt-ctr' missing connection data!
+2023-01-29T05:21:48.236Z [error] 'mqtt-ctr' missing connection data!
+2023-01-30T05:32:54.328Z [error] device-browse: browse-error: TypeError: Cannot read property 'on' of null
+2023-01-30T05:36:55.295Z [error] device-browse: Device not found!
+2023-01-30T05:37:15.413Z [error] device-browse: Device not found!
+2023-01-30T05:37:28.885Z [error] device-browse: Device not found!
+2023-01-30T05:42:56.844Z [error] device-browse: Device not found!

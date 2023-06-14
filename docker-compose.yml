@@ -4,7 +4,7 @@ services:
        # image: nickblah/postgis:10.22-bullseye-postgis-3.2  scanlidocker/postgis_14_33_alpine3.16:v1  postgis/postgis:13-3.2-alpine scanlidocker/postgis_14_33_alpine3.16:v1  openmaptiles-postgis:v14332
         image: scanlidocker/postgis_14_33_alpine3.16:v1
         container_name: postgresql
-        user: root
+        # user: root
         restart: always
         ports:
             - '5432:5432'
@@ -28,7 +28,7 @@ services:
     chirpstack-network-server:
         image: scanlidocker/chirpstack-network-server:v0.21
         container_name: chirpstack-network-server
-        user: root
+        # user: root
         restart: always
         volumes:
             - ./configuration/chirpstack-network-server:/etc/chirpstack-network-server
@@ -41,7 +41,7 @@ services:
     chirpstack-application-server:
         image: scanlidocker/chirpstack-application-server:v0.21
         container_name: chirpstack-application-server
-        user: root
+        # user: root
         restart: always
         ports:
             - 8080:8080
@@ -55,7 +55,7 @@ services:
     chirpstack-gateway-bridge:
         image: scanlidocker/chirpstack-gateway-bridge:v0.21
         container_name: chirpstack-gateway-bridge
-        user: root
+        # user: root
         restart: always
         ports:
             - 1700:1700/udp
@@ -69,7 +69,7 @@ services:
     LoraWeb:
         image: nginx:stable-alpine
         container_name: nginx
-        user: root
+        # user: root
         restart: always
         ports:
             - 8088:80
@@ -92,7 +92,7 @@ services:
     node-red:
         image:  nodered/node-red:latest-minimal
         container_name: node-red
-        user: root
+        # user: root
         restart: always
         ports:
             - 1880:1880
@@ -106,7 +106,7 @@ services:
     FUXA :
         image:  scanlidocker/fuxa:latest
         container_name: fuxa
-        user: root
+        # user: root
         restart: always
         ports:
             - 1881:1881
@@ -123,7 +123,7 @@ services:
     portainer:
         image: portainer/portainer:latest
         container_name: portainer
-        user: root
+        # user: root
         restart: always
         ports: 
             - 9000:9000
@@ -137,7 +137,7 @@ services:
     redis:
         image: redis:5-alpine
         container_name: redis
-        user: root
+        # user: root
         restart: always
         security_opt:
             - seccomp:unconfined   
@@ -149,7 +149,7 @@ services:
     mosquitto:
         image: eclipse-mosquitto:2
         container_name: mosquitto
-        user: root
+        # user: root
         restart: always
         ports:
             - 1883:1883
@@ -163,7 +163,7 @@ services:
         image: scanlidocker/tileserver-gl-light:v4.2.0
         restart: always        
         container_name: tileserver-gl-light
-        user: root
+        # user: root
         volumes:
             - ./map_data:/data
         #env_file:
@@ -178,7 +178,7 @@ services:
     pgadmin4:
         image: dpage/pgadmin4:latest
         container_name: pgadmin4
-        user: root
+        # user: root
         restart: always
         ports:
             - '5050:80'
